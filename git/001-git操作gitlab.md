@@ -70,7 +70,9 @@
 
 ```java
 git add .
+
 git commit -m '写上你的提交信息'
+
 git push -u origin
 
 ```
@@ -79,12 +81,15 @@ git push -u origin
 ```java
 //查询当前远程的版本
 $ git remote -v
+
 //获取最新代码到本地(本地当前分支为[branch]，获取的远端的分支为[origin/branch])
 $ git fetch origin master  [示例1：获取远端的origin/master分支]
 $ git fetch origin dev [示例2：获取远端的origin/dev分支]
+
 //查看版本差异
 $ git log -p master..origin/master [示例1：查看本地master与远端origin/master的版本差异]
 $ git log -p dev..origin/dev   [示例2：查看本地dev与远端origin/dev的版本差异]
+
 //合并最新代码到本地分支
 $ git merge origin/master  [示例1：合并远端分支origin/master到当前分支]
 $ git merge origin/dev [示例2：合并远端分支origin/dev到当前分支]
@@ -95,11 +100,15 @@ Please enter a commit message to explain why this merge is necessary, especially
 ```
 则采取的操作是
 ```java
-1.press "i" (i for insert)
-2.write your merge message
-3.press "esc" (escape)
-4.write ":wq" (write & quit)
-5.then press enter
+1. press "i" (i for insert)
+
+2. write your merge message
+
+3. press "esc" (escape)
+
+4. write ":wq" (write & quit)
+
+5. then press enter
 ```
 ### 8、将本地的代码合并到gitlab的master
 
