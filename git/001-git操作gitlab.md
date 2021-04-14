@@ -95,43 +95,44 @@ $ git merge origin/master  [示例1：合并远端分支origin/master到当前�
 $ git merge origin/dev [示例2：合并远端分支origin/dev到当前分支]
 ```
 如果出现提示信息
+
 ```java
 Please enter a commit message to explain why this merge is necessary, especially if it merges an updated upstream into a topic branch
 ```
 则采取的操作是
 ```java
-1. press "i" (i for insert)
+press "i" (i for insert)
 
-2. write your merge message
+write your merge message
 
-3. press "esc" (escape)
+press "esc" (escape)
 
-4. write ":wq" (write & quit)
+write ":wq" (write & quit)
 
-5. then press enter
+then press enter
 ```
 ### 8、将本地的代码合并到gitlab的master
 
 一、在dev分支上运行以下命令
 
 ```java
-　　1. git add . // 暂存所有更改
+git add . // 暂存所有更改
 
-　　2. git commit -m "更改的备注信息" // 将修改 提交到本地仓库，双引号内是提交的备注信息
+git commit -m "更改的备注信息" // 将修改 提交到本地仓库，双引号内是提交的备注信息
 
-　　3. git pull origin lyr // 拉取远程lyr分支代码
+git pull origin lyr // 拉取远程lyr分支代码
 
-　　4. git push origin lyr // 将本地修改的代码提交到远程的lyr分支上
+git push origin lyr // 将本地修改的代码提交到远程的lyr分支上
 
-　　5. git checkout master // 切换到master分支
+git checkout master // 切换到master分支
 ```
 
 二、在master分支上运行以下命令
 
 ```java
-　　1. git merge lyr// 将lyr分支的代码合并到master上
+git merge lyr// 将lyr分支的代码合并到master上
 
-　 2. git push origin master // 将当前的更改推送到远程的master分支上
+git push origin master // 将当前的更改推送到远程的master分支上
 ```
 
 执行完以上命令，此时lyr分支与master分支的代码已同步。
@@ -139,8 +140,10 @@ Please enter a commit message to explain why this merge is necessary, especially
 三、可能用到的命令
 
 ```java
-　　1.  git checkout  // 可以看到当前的所处的分支位置，位于master还是dev等。
-　　2.  git log  // 可以看到近期的相关提交日志（提交时候的备注等）
-　　3.  git status  // 可以看到当前的文件状态 （如xx文件被修改，但未提交等）
+git checkout  // 可以看到当前的所处的分支位置，位于master还是dev等。
+
+git log  // 可以看到近期的相关提交日志（提交时候的备注等）
+
+git status  // 可以看到当前的文件状态 （如xx文件被修改，但未提交等）
 ```
 
