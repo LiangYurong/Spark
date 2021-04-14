@@ -50,21 +50,18 @@ ssh -T git@github.com  //测试连接github
 
 ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts //若连接失败，则输入这行代码,生成known_hosts文件，然后再连接
 
-# 测试连接 gitlab（测试不成功也没关系，直接去项目中）
-ssh -T git@gitlab.com
+ssh -T git@gitlab.com # 测试连接 gitlab（测试不成功也没关系，直接去项目中）
 ```
 
 ### 6. 在公司内网的gitlab新建一个仓库为test
 
-仓库的http连接为：
+仓库的http连接为：http://localhost:8888/liangyurong/test.git
 
-http://localhost:8888/liangyurong/test.git
+- 本地电脑新建一个文件夹，在里面新建一个test.txt测试文件，
 
--本地电脑新建一个文件夹，在里面新建一个test.txt测试文件，
+- 在里面右键，选择git base here
 
--在里面右键，选择git base here
-
--输入命令
+- 输入命令
 
 ```java
 git init
@@ -85,11 +82,9 @@ git push -u origin --all
 
 ### 7. 在github新建一个仓库为test
 
--仓库的http连接为：
+- 仓库的http连接为：https://github.com/LiangYurong/test.git
 
-https://github.com/LiangYurong/test.git
-
--输入命令
+- 输入命令
 
 ```java
 git init
