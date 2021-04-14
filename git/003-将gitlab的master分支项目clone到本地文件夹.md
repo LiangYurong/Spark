@@ -16,6 +16,6 @@ git config --global user.name "liangyurong"  //对应gitlab上面你的名称
 
 git config --global user.email "liangyurong@qq.com"  //对应gitlab上面你的email
 
-git clone http://main.sdyunban.com:8888/liangyurong/gdydops.git  // 需要对应仓库的http连接
+git clone http://main.yurong333.com:8888/liangyurong/test.git  // 需要对应仓库的http连接
  
 ```
