@@ -24,11 +24,17 @@ ssh-keygen -t rsa -f ~/.ssh/github_rsa -C "liangyurong@qq.com"
 ```
 
 生成的文件有
+
 ```txt
+
 github_rsa
+
 github_rsa.pub
+
 id_rsa
+
 id_rsa_pub
+
 ```
 
 ### 3. 增加config文件。名称就是config，没有任何后缀。
@@ -38,9 +44,11 @@ id_rsa_pub
 新建好 config 配置文件后，添加如下内容到 config 配置文件中（副账号为 github），
 
 ```java
+
 Host *github.com
      IdentityFile ~/.ssh/github_rsa
      User 794842744
+
 ```
 ### 4. 上传 ssh key
 
