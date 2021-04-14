@@ -77,9 +77,11 @@ ssh -T git@gitlab.com # 测试连接 gitlab（测试不成功也没关系，直�
 
 仓库的http连接为：http://localhost:8888/liangyurong/test.git
 
-- 本地电脑新建一个文件夹，在里面新建一个test.txt测试文件，
+- 同时连接gitlab和github的话，每次新建本地项目要push到远程仓库，都需要设置name，email，还有remote命令。下一次操作就没必要设置了。直接add,commit,push即可。
 
-- 在里面右键，选择git base here
+- 本地电脑新建一个test文件夹，在里面新建一个test.txt测试文件，
+
+- 在test文件夹里面右键，选择git base here
 
 - 输入命令
 
@@ -103,6 +105,12 @@ git push -u origin --all
 ### 7. 在github新建一个仓库为test
 
 - 仓库的http连接为：https://github.com/LiangYurong/test.git
+
+- 同时连接gitlab和github的话，每次新建本地项目要push到远程仓库，都需要设置name，email，还有remote命令。下一次操作就没必要设置了。直接add,commit,push即可。
+
+- 本地电脑新建一个test文件夹，在里面新建一个test.txt测试文件，
+
+- 在test文件夹里面右键，选择git base here
 
 - 输入命令
 
