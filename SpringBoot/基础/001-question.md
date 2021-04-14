@@ -9,6 +9,8 @@
                 <includes>
                     <include>**/*.xml</include>
                     <include>**/*.properties</include>
+                    <include>**/*.xls</include>
+                    <include>**/*.yml</include>
                 </includes>
                 <filtering>false</filtering>
             </resource>
@@ -18,6 +20,7 @@
                     <include>**/*.xml</include>
                     <include>**/*.properties</include>
                     <include>**/*.xls</include>
+                    <include>**/*.yml</include>
                 </includes>
                 <filtering>false</filtering>
             </resource>
@@ -28,7 +31,6 @@
 reason
 
 ```txt
-
 使用maven打包时，静态资源的默认路径是resources
 
 用于包含或者排除某些资源。include和exclude。
