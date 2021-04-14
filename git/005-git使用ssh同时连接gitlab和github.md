@@ -9,6 +9,7 @@
 
 ```java
 //去到ssh的目录：/Users/用户名/.ssh，右键选择git base here，输入下面的代码。
+
 git config --global user.name 'liangyurong' && git config --global user.email 'liangyurong@qq.com'
 ```
 
@@ -21,6 +22,15 @@ ssh-keygen -t rsa -C "liangyurong@qq.com"
 # 生成副账号 github 的公钥、密钥，同时指定文件名
 ssh-keygen -t rsa -f ~/.ssh/github_rsa -C "liangyurong@qq.com"
 ```
+
+生成的文件有
+```txt
+github_rsa
+github_rsa.pub
+id_rsa
+id_rsa_pub
+```
+
 ### 3. 增加config文件。名称就是config，没有任何后缀。
 
 对于如何让 github 和 gitlab 识别不同的公钥、密钥，下面需要进行最重要的一步，增加配置文件（config），用于代码仓库来判断该使用何种的公钥、密钥进行比对。
