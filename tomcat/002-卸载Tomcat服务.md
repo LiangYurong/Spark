@@ -13,7 +13,7 @@ cd D:\lyr\mytomcat\tomcat_mybatisplus\bin
 ```
 - 输入下面命令，删除tomcat服务。
 
-说明：“服务”上的名称是：Apche Tomcat 8.5 tomcat_mybatisplus。但我命名的是tomcat_mybatisplus。
+说明：“服务”上的名称是：Apche Tomcat 8.5 tomcat_mybatisplus。但我命名的是tomcat_mybatisplus。一般来说，会在前面给你自动加上Apche+tomcat+版本号。
 
 ```java
 service.bat remove tomcat_mybatisplus
