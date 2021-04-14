@@ -4,7 +4,7 @@
 
 确定默认主账号，推荐使用公司邮箱，因为主要还是用公司邮箱推送代码到 gitlab 仓库进行开发。
 
-全局默认配置
+**全局默认配置** : 下面的name和email对应的是公司的gitlab的名称和邮箱。github对应的是794842744和794842744@qq.com.(在config文件中有设置)
 
 ```java
 git config --global user.name 'liangyurong' && git config --global user.email 'liangyurong@qq.com'
