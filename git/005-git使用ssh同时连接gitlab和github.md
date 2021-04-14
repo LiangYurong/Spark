@@ -6,7 +6,9 @@
 
 **全局默认配置** : 下面的name和email对应的是公司的gitlab的名称和邮箱。github对应的是794842744和794842744@qq.com.(在config文件中有设置)
 
+
 ```java
+//去到ssh的目录：/Users/用户名/.ssh，右键选择git base here，输入下面的代码。
 git config --global user.name 'liangyurong' && git config --global user.email 'liangyurong@qq.com'
 ```
 
