@@ -87,5 +87,5 @@ md add picture
 
 自定义IDEA的工具栏（以添加git的push为例）
 
-![tupian](https://github.com/LiangYurong/imageHouse/blob/master/%E5%9B%BE%E7%89%87%E5%BA%93/11.png)
+![tupian](https://github.com/LiangYurong/imageHouse/blob/master/%E5%9B%BE%E7%89%87%E5%BA%93/000.png)
 
