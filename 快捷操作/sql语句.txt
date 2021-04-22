@@ -1,0 +1,23 @@
+Stu表
+
+class Stu{
+    private String name;
+    private Integer age;
+}
+
+
+对应的数据库表 stu
+
+varchar  name
+
+int  age
+
+更新语句（简单的MySQL语句）
+
+update stu set name = "newName" and age = 12 where id = 1;
+
+
+统计单表的记录条数
+
+
+
