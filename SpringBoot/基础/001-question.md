@@ -2,7 +2,6 @@
 ### 001-why we need to add these code as follow in pom.xml  ?
 
 ```java
-
 <resources>
             <resource>
                 <directory>src/main/java</directory>
@@ -25,11 +24,9 @@
                 <filtering>false</filtering>
             </resource>
 </resources>
-
 ```
 
 reason
-
 ```txt
 使用maven打包时，静态资源的默认路径是resources
 
