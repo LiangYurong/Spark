@@ -7,5 +7,5 @@
 
 3. version control , avoid losing my notes.
 
-4. learn how to use github 
+4.  use github 
 
