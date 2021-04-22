@@ -4,7 +4,7 @@
 
 语句建表，怎么图形化建表呢？
 
-### create table space sql analysis  创建表空间语句分解
+### create table space  创建表空间
 
 ```sql
 CREATE TABLESPACE "RESEARCH_DATA" DATAFILE
