@@ -5,5 +5,5 @@
 
 2. organize my previous Chinese notes 
 
-。
+3. version control , avoid losing my notes
 
