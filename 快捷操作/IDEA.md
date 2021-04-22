@@ -1,6 +1,6 @@
 idea使用技巧：https://www.zhihu.com/question/300830746
 
-
+idea结合github，可以成为一个具有版本控制的笔记本。写了笔记之后就提交到github仓库。
 
 代码格式化：ctrl + alt + L  ，现在改为alt+w
 
