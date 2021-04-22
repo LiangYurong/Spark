@@ -17,12 +17,10 @@ check .gitignore file , and found that the directory names of the two files are 
 delete the directory names of the two files , and push again .
 
 ```java
-
 git add . 
 
 git commit -m 'upload docker folder and node folder'
 
 git push -u origin
-
 ```
 
