@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc2d620a-1f15-433c-b967-2f7be619e057" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Oracle/003-create-user-slq-analysis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oracle/004-user-authorization-sql-analysis.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oracle/000-Basic-Oracle.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -61,26 +60,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="1" />
-          <entry key="md" value="16" />
+          <entry key="md" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="1" />
-          <entry key="Markdown" value="16" />
+          <entry key="Markdown" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="597" />
-          <entry key="txt" value="300" />
+          <entry key="md" value="684" />
+          <entry key="txt" value="338" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="2" />
-          <entry key="Markdown" value="595" />
-          <entry key="PLAIN_TEXT" value="300" />
+          <entry key="Markdown" value="682" />
+          <entry key="PLAIN_TEXT" value="338" />
         </counts>
       </usages-collector>
     </session>
@@ -111,11 +110,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Oracle/004-user-authorization-sql-analysis.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="360">
+                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/快捷操作/oracle.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="312">
+                <caret line="20" column="3" lean-forward="true" selection-end-line="42" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Oracle/000-Basic-Oracle.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="240">
+                <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -151,6 +176,8 @@
         <option value="$PROJECT_DIR$/Oracle/002-create-temporary-table-sql-analysis.md" />
         <option value="$PROJECT_DIR$/Oracle/001-create-table-space-sql-analysis.md" />
         <option value="$PROJECT_DIR$/Oracle/003-create-user-slq-analysis.md" />
+        <option value="$PROJECT_DIR$/Oracle/004-user-authorization-sql-analysis.md" />
+        <option value="$PROJECT_DIR$/Oracle/000-Basic-Oracle.md" />
       </list>
     </option>
   </component>
@@ -194,6 +221,11 @@
               <item name="yurong333-blog" type="462c0819:PsiDirectoryNode" />
               <item name="Oracle" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="yurong333-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yurong333-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="快捷操作" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -206,7 +238,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619084205583" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619148222012" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -243,7 +275,7 @@
       <workItem from="1619053691083" duration="3041000" />
       <workItem from="1619056742705" duration="75000" />
       <workItem from="1619056872149" duration="2167000" />
-      <workItem from="1619059102278" duration="5867000" />
+      <workItem from="1619059102278" duration="7443000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1612173591092</created>
@@ -378,11 +410,18 @@
       <option name="project" value="LOCAL" />
       <updated>1619080302425</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="add new md file in Oracle folder">
+      <created>1619084250047</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1619084250047</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14821000" />
+    <option name="totallyTimeSpent" value="16397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -449,7 +488,8 @@
     <MESSAGE value="update" />
     <MESSAGE value="crate new folder named Oracle" />
     <MESSAGE value="Create temporary table" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create temporary table" />
+    <MESSAGE value="add new md file in Oracle folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new md file in Oracle folder" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Spark.iml">
@@ -577,7 +617,29 @@
     <entry file="file://$PROJECT_DIR$/Oracle/004-user-authorization-sql-analysis.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="360">
+            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/快捷操作/oracle.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="312">
+            <caret line="20" column="3" lean-forward="true" selection-end-line="42" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Oracle/000-Basic-Oracle.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
