@@ -14,12 +14,12 @@ grant unlimited tablespace to C##RESEARCH;
 
 ### sql analysis - User authorization
 
-```java
-//此时的C##RESEARCH是用户
+```sql
+-- 此时的C##RESEARCH是用户
 
-grant connect to C##RESEARCH; //授予connect角色
-grant resource to C##RESEARCH; //授予resource角色
-grant create view to C##RESEARCH; //为用户创建视图的权限
-grant unlimited tablespace to C##RESEARCH; //不对C##RESEARCH用户作配额限制
+grant connect to C##RESEARCH; --授予connect角色
+grant resource to C##RESEARCH; --授予resource角色
+grant create view to C##RESEARCH; --为用户创建视图的权限
+grant unlimited tablespace to C##RESEARCH; --不对C##RESEARCH用户作配额限制
 ```
 

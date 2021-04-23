@@ -8,7 +8,7 @@
 ```
 ### sql analysis
 
-```java
-//使用一个指定大小(UNIFORM SIZE)的同意盘区来管理该TableSpace
+```sql
+--使用一个指定大小(UNIFORM SIZE)的同意盘区来管理该TableSpace
   EXTENT MANAGEMENT LOCAL UNIFORM SIZE 1048576
 ```

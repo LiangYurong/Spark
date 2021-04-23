@@ -35,37 +35,37 @@ AUTOEXTEND ON NEXT 52428800
 ```
 
 ```sql
-// 允许物理文件无限制的增长也是存在一定风险的。此时，可以在创建时设定表空间的最大大小。
-// 此时设置表空间最大为20180M
+--允许物理文件无限制的增长也是存在一定风险的。此时，可以在创建时设定表空间的最大大小。
+--此时设置表空间最大为20180M
 MAXSIZE 20480M
 ```
 
 ```sql
-//日志模式，分别有logging，force logging，nologging
-//默认情况是logging，就是会记录到redo日志中，force logging是强制记录日志，nologging是尽量减少日志。FORCE LOGGING可以在数据库级别、表空间级别进行设定、而LOGGING与NOLOGGING可以在表级别设定。
+--日志模式，分别有logging，force logging，nologging
+--默认情况是logging，就是会记录到redo日志中，force logging是强制记录日志，nologging是尽量减少日志。FORCE LOGGING可以在数据库级别、表空间级别进行设定、而LOGGING与NOLOGGING可以在表级别设定。
 LOGGING  
 ```
 
 ```sql
-//联机。 与之对应的是offline脱机
+--联机。 与之对应的是offline脱机
 ONLINE 
 ```
 
 ```sql
-PERMANENT //指定表空间中数据的保存形式. 此单词代表永恒保存。
+PERMANENT --指定表空间中数据的保存形式. 此单词代表永恒保存。
 ```
 
 ```sql
-BLOCKSIZE 8192 //数据库块的大小，默认就是8192k，一般是os块大小的整数倍
+BLOCKSIZE 8192 --数据库块的大小，默认就是8192k，一般是os块大小的整数倍
 ```
 
-```java
-//在CREATE TABLESPACE 语句中EXTENT MANAGEMENT 子句中指定LOCAL。然后可以用AUTOALLOCATE 选项(默认)来使Oracle自动管理盘区
+```sql
+-- 在CREATE TABLESPACE 语句中EXTENT MANAGEMENT 子句中指定LOCAL。然后可以用AUTOALLOCATE 选项(默认)来使Oracle自动管理盘区
 EXTENT MANAGEMENT LOCAL AUTOALLOCATE DEFAULT 
 ```
 
 ```sql
-//NOCOMPRESS是压缩表,索引的参数，可以节省空间
+-- NOCOMPRESS是压缩表,索引的参数，可以节省空间
 NOCOMPRESS  
 ```
 
