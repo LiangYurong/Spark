@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dc2d620a-1f15-433c-b967-2f7be619e057" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle/001-create-table-space-sql-analysis.md" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle/001-create-table-space-sql-analysis.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle/002-create-temporary-table-sql-analysis.md" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle/002-create-temporary-table-sql-analysis.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle/003-create-user-slq-analysis.md" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle/003-create-user-slq-analysis.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle/004-user-authorization-sql-analysis.md" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle/004-user-authorization-sql-analysis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/快捷操作/oracle.md" beforeDir="false" afterPath="$PROJECT_DIR$/快捷操作/oracle.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,12 +98,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Oracle/001-create-table-space-sql-analysis.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="240">
-                <caret line="59" column="3" lean-forward="true" selection-start-line="59" selection-start-column="3" selection-end-line="59" selection-end-column="3" />
+              <first_editor relative-caret-position="408">
+                <caret line="66" column="6" lean-forward="true" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -137,12 +134,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/快捷操作/oracle.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="312">
-                <caret line="20" column="3" lean-forward="true" selection-end-line="42" />
+              <first_editor relative-caret-position="1661">
+                <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
               </first_editor>
               <second_editor />
             </state>
@@ -193,6 +190,7 @@
         <option value="$PROJECT_DIR$/Oracle/003-create-user-slq-analysis.md" />
         <option value="$PROJECT_DIR$/Oracle/002-create-temporary-table-sql-analysis.md" />
         <option value="$PROJECT_DIR$/Oracle/001-create-table-space-sql-analysis.md" />
+        <option value="$PROJECT_DIR$/快捷操作/oracle.md" />
       </list>
     </option>
   </component>
@@ -253,7 +251,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619148395945" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619158116540" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -290,7 +288,7 @@
       <workItem from="1619053691083" duration="3041000" />
       <workItem from="1619056742705" duration="75000" />
       <workItem from="1619056872149" duration="2167000" />
-      <workItem from="1619059102278" duration="7782000" />
+      <workItem from="1619059102278" duration="8403000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1612173591092</created>
@@ -439,11 +437,18 @@
       <option name="project" value="LOCAL" />
       <updated>1619148388466</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="update">
+      <created>1619148565996</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1619148565996</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16736000" />
+    <option name="totallyTimeSpent" value="17357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -606,16 +611,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/快捷操作/oracle.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="312">
-            <caret line="20" column="3" lean-forward="true" selection-end-line="42" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Oracle/000-Basic-Oracle.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -659,8 +654,18 @@
     <entry file="file://$PROJECT_DIR$/Oracle/001-create-table-space-sql-analysis.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="240">
-            <caret line="59" column="3" lean-forward="true" selection-start-line="59" selection-start-column="3" selection-end-line="59" selection-end-column="3" />
+          <first_editor relative-caret-position="408">
+            <caret line="66" column="6" lean-forward="true" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/快捷操作/oracle.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1661">
+            <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
           </first_editor>
           <second_editor />
         </state>
