@@ -16,21 +16,21 @@ CREATE TABLESPACE "RESEARCH_DATA" DATAFILE
   BLOCKSIZE 8192
   EXTENT MANAGEMENT LOCAL AUTOALLOCATE DEFAULT
   NOCOMPRESS
-  SEGMENT SPACE MANAGEMENT AUTO
+  SEGMENT SPACE MANAGEMENT AUTO;
 ```
 
 ### sql analysis
 ```sql
-//创建RESEARCH_DATA表空间，数据文件是RESEARCH_DATA.dbf
-//存放路径在D:\opt\oracle\oradata\orcl\med
-//大小是52428800kb ， 即1024mb
+--创建RESEARCH_DATA表空间，数据文件是RESEARCH_DATA.dbf
+--存放路径在D:\opt\oracle\oradata\orcl\med
+--大小是52428800kb ， 即1024mb
 CREATE TABLESPACE "RESEARCH_DATA" DATAFILE
-  'D:\opt\oracle\oradata\orcl\med\RESEARCH_DATA.dbf' SIZE 52428800
+  'D:\opt\oracle\oradata\orcl\med\RESEARCH_DATA.dbf' SIZE 52428800;
 ```
 
 ```sql
-//autoextend指定当数据量超出物理文件的存储空间时，自动增加文件大小
-//on next 52428800指定每次增长的尺寸为52428800kb。
+--autoextend指定当数据量超出物理文件的存储空间时，自动增加文件大小
+--on next 52428800指定每次增长的尺寸为52428800kb。
 AUTOEXTEND ON NEXT 52428800 
 ```
 

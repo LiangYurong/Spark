@@ -1,6 +1,20 @@
 
 ### Basic
 
+用plsql登陆无法使用show指令。
+
+在PL/SQL不能操作的命令，在cmd进入oracle可以进行操作。比如建立表空间，临时表空间，用户等等。
+
+### what is the use of .dmp file
+
+dmp文件导出用的比较多的一般是三种，他们分别是：导出整个数据库实例下的所有数据、导出指定用户的所有表、导出指定表。
+
+### what is the use of CDB
+
+
+
+### understand 
+
 用户=商家;表=商品;表空间=仓库
 
 ```txt
