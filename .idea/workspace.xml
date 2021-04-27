@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc2d620a-1f15-433c-b967-2f7be619e057" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lombok/annotation/basic-annotation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shiro/Basic.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shiro/SimpleAuthenticationInfo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Data-JPA/annotation/basic-annotation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot/annotation/@ControllerAdvice.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot/annotation/@CrossOrigin.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot/基础/ApplicationContextAware.md" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/基础/ApplicationContextAware.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -269,7 +262,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619430222349" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619517781508" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../代码仓库" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -308,7 +301,7 @@
       <workItem from="1619056872149" duration="2167000" />
       <workItem from="1619059102278" duration="10618000" />
       <workItem from="1619312592172" duration="4760000" />
-      <workItem from="1619427422216" duration="2228000" />
+      <workItem from="1619427422216" duration="2846000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1612173591092</created>
@@ -492,11 +485,18 @@
       <option name="project" value="LOCAL" />
       <updated>1619403099075</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="update">
+      <created>1619430227957</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1619430227957</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26560000" />
+    <option name="totallyTimeSpent" value="27178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
