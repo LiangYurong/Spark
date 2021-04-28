@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dc2d620a-1f15-433c-b967-2f7be619e057" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TOOl/技术人员如何更好得使用搜索.md" beforeDir="false" afterPath="$PROJECT_DIR$/TOOl/技术人员如何更好得使用搜索.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,14 +72,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1407" />
+          <entry key="md" value="1445" />
           <entry key="txt" value="344" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="2" />
-          <entry key="Markdown" value="1399" />
+          <entry key="Markdown" value="1437" />
           <entry key="PLAIN_TEXT" value="344" />
           <entry key="SQL" value="6" />
         </counts>
@@ -127,8 +126,8 @@
         <entry file="file://$PROJECT_DIR$/TOOl/技术人员如何更好得使用搜索.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="677">
-                <caret line="56" column="7" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
+              <first_editor relative-caret-position="701">
+                <caret line="66" column="6" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -254,7 +253,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619518299075" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619577290180" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../代码仓库" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -294,7 +293,7 @@
       <workItem from="1619059102278" duration="10618000" />
       <workItem from="1619312592172" duration="4760000" />
       <workItem from="1619427422216" duration="2846000" />
-      <workItem from="1619517629720" duration="552000" />
+      <workItem from="1619517629720" duration="1445000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1612173591092</created>
@@ -499,11 +498,18 @@
       <option name="project" value="LOCAL" />
       <updated>1619517930335</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="update">
+      <created>1619518319793</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1619518319793</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27730000" />
+    <option name="totallyTimeSpent" value="28623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -817,8 +823,8 @@
     <entry file="file://$PROJECT_DIR$/TOOl/技术人员如何更好得使用搜索.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="677">
-            <caret line="56" column="7" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
+          <first_editor relative-caret-position="701">
+            <caret line="66" column="6" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>
