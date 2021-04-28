@@ -10,7 +10,7 @@
 
 - npm install (如果已经安装了npm此条命令不必输入。一般都是已经安装)
 
-- npm run dev
+- npm run dev (运行项目)
 
 4、输入npm run dev之后，会有提示你访问的地址。
 

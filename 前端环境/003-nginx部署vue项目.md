@@ -9,7 +9,7 @@ D:\test\vuepro\vue-test
 2、cd到当前的项目路径下，输入以下命令进行打包，会生成dist项目
 
 ```txt
-npm run build
+npm run build  //相当于打包项目
 ```
 
 3、复制dist里面所有的文件
