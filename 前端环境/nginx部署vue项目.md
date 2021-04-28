@@ -14,7 +14,7 @@ npm run build
 
 3、复制dist里面所有的文件
 
-4、去到nginx目录的html文件夹里面，粘贴 所复制的内容 到html文件夹
+4、去到nginx目录的html文件夹里面，粘贴 **所复制的内容** 到html文件夹
 
 5、去到nginx的conf文件夹，编辑nginx.conf文件
 
