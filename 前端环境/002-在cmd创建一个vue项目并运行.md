@@ -8,14 +8,14 @@
 
 - cd vue-test
 
-- npm install (如果已经安装了npm此条命令不必输入。一般都是已经安装了)
+- npm install (如果已经安装了npm此条命令不必输入。一般都是已经安装)
 
 - npm run dev
 
-4、输入npm run dev之后，会提醒你访问的地址
+4、输入npm run dev之后，会有提示你访问的地址。
 
 ![](https://github.com/LiangYurong/imageHouse/blob/master/%E5%9B%BE%E7%89%87%E5%BA%93/002.png)
 
-5、打开浏览器，输入http://localhost:8080/，即可访问到运行成功的项目
+5、打开浏览器，输入http://localhost:8080/，即可访问到运行成功的项目。
 
 
