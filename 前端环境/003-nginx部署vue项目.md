@@ -12,6 +12,9 @@ D:\test\vuepro\vue-test
 npm run build  //相当于打包项目
 ```
 
+补充：注意：需要完整版的vue-cli项目，即通过vue init webpack初始化的项目才可以。
+通过vue init webpack-simple初始化的项目没有打包文件，无法打包。
+
 3、复制dist里面所有的文件
 
 4、去到nginx目录的html文件夹里面，粘贴 **所复制的内容** 到html文件夹
