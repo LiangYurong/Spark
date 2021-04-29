@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc2d620a-1f15-433c-b967-2f7be619e057" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SpringBoot/annotation/FeignClient.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/算法-List/006-回文链表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/算法-List/007-链表的中间节点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/算法-List/008-链表中倒数第k个节点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/算法-List/009-判断链表是否有环.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/算法-List/010-删除链表节点(无重复).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/算法-List/011-删除链表节点(有重复值).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/算法-List/012-删除排序链表中的重复元素.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/算法-List/013-删除中间节点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/算法-List/014-移除重复节点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/算法-List/015-找出链表所有相交的点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/算法-List/016-找出链表相交的唯一一个点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/算法-List/017-在指定位置添加节点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/算法-List/018-创建单链表的一个错误做法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/算法-List/019-单链表的简单实现.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前端环境/003-nginx部署vue项目.md" beforeDir="false" afterPath="$PROJECT_DIR$/前端环境/003-nginx部署vue项目.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法/算法-List/004-反转链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法/算法-List/004-反转链表.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,36 +70,37 @@
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="1" />
-          <entry key="md" value="78" />
+          <entry key="md" value="95" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="1" />
-          <entry key="Markdown" value="77" />
+          <entry key="Markdown" value="94" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="3052" />
+          <entry key="md" value="3275" />
           <entry key="txt" value="344" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="2" />
-          <entry key="Markdown" value="3040" />
+          <entry key="Markdown" value="3263" />
           <entry key="PLAIN_TEXT" value="348" />
           <entry key="SQL" value="6" />
         </counts>
@@ -94,11 +110,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法/算法-List/003-二进制链表转整数.md">
+        <entry file="file://$PROJECT_DIR$/算法/算法-List/015-找出链表所有相交的点.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="821">
-                <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法/算法-List/016-找出链表相交的唯一一个点.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="792">
+                <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -106,35 +132,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法/算法-List/004-反转链表.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="576">
-                <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法/算法-List/005-合并两个有序列表.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="821">
-                <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前端环境/001-前端环境部署.md">
+        <entry file="file://$PROJECT_DIR$/算法/算法-List/017-在指定位置添加节点.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="24">
-                <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+                <folding>
+                  <element signature="n#!!doc" expanded="true" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -142,11 +147,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前端环境/002-在cmd创建一个vue项目并运行.md">
+        <entry file="file://$PROJECT_DIR$/算法/算法-List/018-创建单链表的一个错误做法.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="336">
-                <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <first_editor relative-caret-position="912">
+                <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法/算法-List/019-单链表的简单实现.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="24">
+                <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -154,11 +171,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/前端环境/003-nginx部署vue项目.md">
+        <entry file="file://$PROJECT_DIR$/算法/算法-List/011-删除链表节点(有重复值).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="312">
-                <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <first_editor relative-caret-position="711">
+                <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
               </first_editor>
               <second_editor />
             </state>
@@ -171,6 +188,7 @@
     <findStrings>
       <find>depen</find>
       <find>&lt;group</find>
+      <find>@ConditionalOnMissingBean</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -185,20 +203,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SpringBoot/基础/001-question.md" />
-        <option value="$PROJECT_DIR$/快捷操作/IDEA.md" />
-        <option value="$PROJECT_DIR$/SpringBoot/Log/001-basic.md" />
-        <option value="$PROJECT_DIR$/快捷操作/oracle.md" />
-        <option value="$PROJECT_DIR$/Oracle/001-create-table-space-sql-analysis.md" />
-        <option value="$PROJECT_DIR$/Oracle/002-create-temporary-table-sql-analysis.md" />
-        <option value="$PROJECT_DIR$/Oracle/004-user-authorization-sql-analysis.md" />
-        <option value="$PROJECT_DIR$/Oracle/003-create-user-slq-analysis.md" />
-        <option value="$PROJECT_DIR$/Oracle/000-Basic-Oracle.md" />
-        <option value="$PROJECT_DIR$/SpringBoot/基础/003-global-configuraton-files.md" />
-        <option value="$PROJECT_DIR$/SpringBoot/基础/002-Project Structure.md" />
-        <option value="$PROJECT_DIR$/SpringBoot/基础/ApplicationContextAware.md" />
-        <option value="$PROJECT_DIR$/Shiro/Basic.md" />
-        <option value="$PROJECT_DIR$/Shiro/SimpleAuthenticationInf.md" />
         <option value="$PROJECT_DIR$/SpringBoot/annotation/@CrossOrigin.md" />
         <option value="$PROJECT_DIR$/Lombok/annotation/basic-annotation.md" />
         <option value="$PROJECT_DIR$/Spring-Data-JPA/annotation/basic-annotation.md" />
@@ -233,9 +237,23 @@
         <option value="$PROJECT_DIR$/算法/算法-List/001-从尾到头打印链表.md" />
         <option value="$PROJECT_DIR$/算法/算法-List/002-单向链表中倒数第k个节点.md" />
         <option value="$PROJECT_DIR$/算法/算法-List/003-二进制链表转整数.md" />
-        <option value="$PROJECT_DIR$/算法/算法-List/004-反转链表.md" />
         <option value="$PROJECT_DIR$/算法/算法-List/005-合并两个有序列表.md" />
         <option value="$PROJECT_DIR$/前端环境/003-nginx部署vue项目.md" />
+        <option value="$PROJECT_DIR$/算法/算法-List/004-反转链表.md" />
+        <option value="$PROJECT_DIR$/SpringBoot/annotation/FeignClient.md" />
+        <option value="$PROJECT_DIR$/算法/算法-List/006-回文链表.md" />
+        <option value="$PROJECT_DIR$/算法/算法-List/007-链表的中间节点.md" />
+        <option value="$PROJECT_DIR$/算法/算法-List/008-链表中倒数第k个节点.md" />
+        <option value="$PROJECT_DIR$/算法/算法-List/009-判断链表是否有环.md" />
+        <option value="$PROJECT_DIR$/算法/算法-List/010-删除链表节点(无重复).md" />
+        <option value="$PROJECT_DIR$/算法/算法-List/012-删除排序链表中的重复元素.md" />
+        <option value="$PROJECT_DIR$/算法/算法-List/013-删除中间节点.md" />
+        <option value="$PROJECT_DIR$/算法/算法-List/014-移除重复节点.md" />
+        <option value="$PROJECT_DIR$/算法/算法-List/016-找出链表相交的唯一一个点.md" />
+        <option value="$PROJECT_DIR$/算法/算法-List/017-在指定位置添加节点.md" />
+        <option value="$PROJECT_DIR$/算法/算法-List/018-创建单链表的一个错误做法.md" />
+        <option value="$PROJECT_DIR$/算法/算法-List/019-单链表的简单实现.md" />
+        <option value="$PROJECT_DIR$/算法/算法-List/011-删除链表节点(有重复值).md" />
       </list>
     </option>
   </component>
@@ -253,9 +271,10 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="1293" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-236" />
+    <option name="y" value="138" />
+    <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -266,9 +285,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -279,18 +297,41 @@
             <path>
               <item name="yurong333-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="yurong333-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yurong333-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yurong333-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yurong333-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yurong333-blog" type="462c0819:PsiDirectoryNode" />
               <item name="前端环境" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yurong333-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yurong333-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="算法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yurong333-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yurong333-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="算法" type="462c0819:PsiDirectoryNode" />
+              <item name="算法-List" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619662198031" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619689872013" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../代码仓库" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -333,6 +374,7 @@
       <workItem from="1619517629720" duration="1445000" />
       <workItem from="1619577270284" duration="1898000" />
       <workItem from="1619592648377" duration="12513000" />
+      <workItem from="1619666216573" duration="4924000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1612173591092</created>
@@ -628,23 +670,33 @@
       <option name="project" value="LOCAL" />
       <updated>1619610504540</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="update">
+      <created>1619666331854</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1619666331854</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43034000" />
+    <option name="totallyTimeSpent" value="47958000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2998933" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30309498" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Log Viewer" />
+      <window_info anchor="bottom" id="Anonymous Apex" />
+      <window_info anchor="bottom" id="SOQL Query" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -703,146 +755,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Oracle/003-create-user-slq-analysis.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="72">
-            <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Oracle/004-user-authorization-sql-analysis.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="528">
-            <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Oracle/000-Basic-Oracle.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="504">
-            <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Shiro/Basic.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="384">
-            <caret line="16" selection-start-line="16" selection-end-line="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Shiro/SimpleAuthenticationInfo.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="48">
-            <caret line="2" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot/annotation/@CrossOrigin.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="168">
-            <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot/annotation/@ControllerAdvice.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lombok/annotation/basic-annotation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="96">
-            <caret line="4" selection-start-line="4" selection-end-line="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/快捷操作/2021-04.md" />
-    <entry file="file://$PROJECT_DIR$/快捷操作/GitHub.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/快捷操作/Typora.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/快捷操作/sql-server语句.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring-Data-JPA/annotation/basic-annotation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="72">
-            <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/快捷操作/nginx.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="34" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端环境/000-前端学习流程.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="144">
-            <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TOOL/001-技术人员如何更好得使用搜索.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="821">
-            <caret line="43" selection-start-line="43" selection-end-line="43" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TOOL/002-谷歌搜索技术.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/TOOL/002-谷歌搜索技术.md" />
     <entry file="file://$PROJECT_DIR$/TOOL/002-google搜索关键词.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1118,18 +1031,8 @@
     <entry file="file://$PROJECT_DIR$/算法/算法-List/003-二进制链表转整数.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="821">
+          <first_editor relative-caret-position="1536">
             <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法/算法-List/004-反转链表.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="576">
-            <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
           </first_editor>
           <second_editor />
         </state>
@@ -1138,8 +1041,28 @@
     <entry file="file://$PROJECT_DIR$/算法/算法-List/005-合并两个有序列表.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="821">
+          <first_editor relative-caret-position="1056">
             <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/算法-List/004-反转链表.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="207">
+            <caret line="30" column="94" selection-start-line="30" selection-start-column="94" selection-end-line="30" selection-end-column="94" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端环境/000-前端学习流程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="144">
+            <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
           </first_editor>
           <second_editor />
         </state>
@@ -1148,8 +1071,8 @@
     <entry file="file://$PROJECT_DIR$/前端环境/001-前端环境部署.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="24">
-            <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <first_editor relative-caret-position="101">
+            <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>
@@ -1168,8 +1091,159 @@
     <entry file="file://$PROJECT_DIR$/前端环境/003-nginx部署vue项目.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="312">
-            <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <first_editor relative-caret-position="264">
+            <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot/annotation/FeignClient.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="288">
+            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/算法-List/006-回文链表.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="821">
+            <caret line="135" column="1" selection-start-line="135" selection-start-column="1" selection-end-line="135" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/算法-List/007-链表的中间节点.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="365">
+            <caret line="48" column="29" lean-forward="true" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/算法-List/008-链表中倒数第k个节点.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="207">
+            <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/算法-List/009-判断链表是否有环.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="677">
+            <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/算法-List/010-删除链表节点(无重复).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="504">
+            <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/算法-List/012-删除排序链表中的重复元素.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="629">
+            <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/算法-List/013-删除中间节点.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="816">
+            <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/算法-List/014-移除重复节点.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1080">
+            <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/算法-List/015-找出链表所有相交的点.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/算法-List/016-找出链表相交的唯一一个点.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="792">
+            <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/算法-List/017-在指定位置添加节点.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="24">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <folding>
+              <element signature="n#!!doc" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/算法-List/018-创建单链表的一个错误做法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="912">
+            <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/算法-List/019-单链表的简单实现.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="24">
+            <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/算法-List/011-删除链表节点(有重复值).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="711">
+            <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
           </first_editor>
           <second_editor />
         </state>
