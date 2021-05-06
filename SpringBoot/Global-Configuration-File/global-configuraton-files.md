@@ -2,17 +2,15 @@
 
 Multiple global configuration can be used in Resources folder .
 
-- application.yml
-- application-dev.properties
-- application-prod.properties
+- application.properties 
+- application-dev.properties # 开发环境
+- application-prod.properties # 生产环境
 
 ### 2. how to make a global configuration file take effect
 
 in application.yml
 
-```yml
-spring:
- profiles:
-  acitve: dev
+```txt
+spring.profiles.acitve=dev
 ```
 
