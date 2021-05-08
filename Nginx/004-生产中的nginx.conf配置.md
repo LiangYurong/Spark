@@ -23,7 +23,7 @@ server {
 
 			#access_log  logs/host.access.log  main;
 
-                                                #对 "/" 启用反向代理
+            #对 "/" 启用反向代理
 			location / {
 				proxy_pass   http://116.168.0.1:8099;
 				proxy_redirect off;
