@@ -1,5 +1,10 @@
 
 
+### recommend
+
+直接在IDEA点击merge按钮来更新即可。
+
+
 ### the master of gitlab project has been updated , but my local project has not updated. so i need to merge latest code to my local project 
 
 ```java
