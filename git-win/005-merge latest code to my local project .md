@@ -27,15 +27,10 @@ Please enter a commit message to explain why this merge is necessary, especially
 ```
 and then 
 ```java
-press "i" (i for insert)
+input : git stash save ""
 
-write your merge message
+and try merge again
 
-press "esc" (escape)
-
-write ":wq" (write & quit)
-
-then press enter
 ```
 
 
