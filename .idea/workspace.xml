@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc2d620a-1f15-433c-b967-2f7be619e057" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SpringBoot/annotation/@Conditional.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot/annotation/@GetMapping.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot/annotation/@Import.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot/annotation/@PageableDefault.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot/annotation/@PropertySource与@ImportResource.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot/annotation/@RequestParm  @Pathvariable  @RequestBody.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot/annotation/@RequestParm @Parm.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot/annotation/@RequestParm.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -107,8 +99,8 @@
         <entry file="file://$PROJECT_DIR$/SpringBoot/annotation/@PropertySource与@ImportResource.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="460">
-                <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <first_editor relative-caret-position="84">
+                <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -284,7 +276,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1620553939333" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1620568424607" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -337,14 +329,7 @@
       <workItem from="1620372604238" duration="3359000" />
       <workItem from="1620436285464" duration="954000" />
       <workItem from="1620440111682" duration="12545000" />
-      <workItem from="1620553593710" duration="833000" />
-    </task>
-    <task id="LOCAL-00003" summary="convert git blog to all english">
-      <created>1619053793294</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1619053793294</updated>
+      <workItem from="1620553593710" duration="1888000" />
     </task>
     <task id="LOCAL-00004" summary="test">
       <created>1619053964377</created>
@@ -682,11 +667,18 @@
       <option name="project" value="LOCAL" />
       <updated>1620535178506</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="update">
+      <created>1620555113385</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1620555113386</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84152000" />
+    <option name="totallyTimeSpent" value="85207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="975" extended-state="6" />
@@ -761,9 +753,9 @@
     <MESSAGE value="排序" />
     <MESSAGE value=" 删除远程桌面的历史连接" />
     <MESSAGE value="nginx" />
-    <MESSAGE value="update" />
     <MESSAGE value="springboot basic" />
-    <option name="LAST_COMMIT_MESSAGE" value="springboot basic" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/算法/List/011-删除链表节点(有重复值).md" />
@@ -1092,8 +1084,8 @@
     <entry file="file://$PROJECT_DIR$/SpringBoot/annotation/@PropertySource与@ImportResource.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="460">
-            <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <first_editor relative-caret-position="84">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
