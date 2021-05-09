@@ -1,7 +1,7 @@
 
 ### 001-why we need to add these code as follow in pom.xml  ?
 
-```java
+```xml
 <resources>
             <resource>
                 <directory>src/main/java</directory>

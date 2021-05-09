@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc2d620a-1f15-433c-b967-2f7be619e057" name="Default Changelist" comment="" />
+    <list default="true" id="dc2d620a-1f15-433c-b967-2f7be619e057" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/IDEA/001-basic.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IDEA/002-generate unit test.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot/基础/000-spark.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot/基础/starter.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot/基础/version arbitration.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot/基础/question.md" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/基础/question.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bug/tomcat/001.md" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,71 +21,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法/Tree/002-广度优先搜索.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="46">
-                <caret line="2" selection-start-line="2" selection-end-line="2" />
-                <folding>
-                  <element signature="e#0#573#0" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法/Tree/004-二叉树的最大最小深度.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法/Tree/005-哈夫曼.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法/Tree/006-中序遍历.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法/Tree/007-根据数组建立二叉树.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/算法/Tree/008-后序遍历.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
@@ -91,11 +35,121 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法/Tree/001-二叉树的高度.md">
+        <entry file="file://$PROJECT_DIR$/git-win/005-merge latest code to my local project .md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="667">
-                <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+              <first_editor relative-caret-position="643">
+                <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法/List/001-从尾到头打印链表.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="230">
+                <caret line="10" selection-start-line="10" selection-end-line="10" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringBoot/基础/question.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="69">
+                <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringBoot/基础/starter.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="184">
+                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringBoot/基础/version arbitration.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="414">
+                <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringBoot/基础/000-spark.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="69">
+                <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IDEA/001-basic.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="414">
+                <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IDEA/002-generate unit test.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="115">
+                <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -126,13 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TOOL/011-腾讯视频会议app录屏.md" />
-        <option value="$PROJECT_DIR$/TOOL/012-KMSSpico软件.md" />
-        <option value="$PROJECT_DIR$/TOOL/013-navicat过期不能用.md" />
-        <option value="$PROJECT_DIR$/TOOL/014-nas.md" />
-        <option value="$PROJECT_DIR$/git/010-set-ignore-file.md" />
-        <option value="$PROJECT_DIR$/git/000-git-spark.md" />
-        <option value="$PROJECT_DIR$/git/000-basic.md" />
         <option value="$PROJECT_DIR$/SpringBoot/基础/Optional-and-NPE.md" />
         <option value="$PROJECT_DIR$/算法/算法-List/001-从尾到头打印链表.md" />
         <option value="$PROJECT_DIR$/算法/算法-List/002-单向链表中倒数第k个节点.md" />
@@ -175,8 +222,15 @@
         <option value="$PROJECT_DIR$/Nginx/002-command.md" />
         <option value="$PROJECT_DIR$/Nginx/001-basic.md" />
         <option value="$PROJECT_DIR$/Nginx/003-nginx.conf.md" />
-        <option value="$PROJECT_DIR$/git-win/005-merge latest code to my local project .md" />
         <option value="$PROJECT_DIR$/Nginx/004-生产中的nginx.conf配置.md" />
+        <option value="$PROJECT_DIR$/git-win/005-merge latest code to my local project .md" />
+        <option value="$PROJECT_DIR$/SpringBoot/基础/question.md" />
+        <option value="$PROJECT_DIR$/SpringBoot/基础/starter.md" />
+        <option value="$PROJECT_DIR$/SpringBoot/基础/版本仲裁.md" />
+        <option value="$PROJECT_DIR$/SpringBoot/基础/version arbitration.md" />
+        <option value="$PROJECT_DIR$/SpringBoot/基础/000-spark.md" />
+        <option value="$PROJECT_DIR$/IDEA/001-basic.md" />
+        <option value="$PROJECT_DIR$/IDEA/002-generate unit test.md" />
       </list>
     </option>
   </component>
@@ -211,6 +265,11 @@
               <item name="yurong333-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="yurong333-blog" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="yurong333-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yurong333-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="IDEA" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -221,7 +280,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1620468042800" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1620534904958" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -274,13 +333,6 @@
       <workItem from="1620372604238" duration="3359000" />
       <workItem from="1620436285464" duration="954000" />
       <workItem from="1620440111682" duration="12545000" />
-    </task>
-    <task id="LOCAL-00001" summary="test">
-      <created>1612173591092</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1612173591092</updated>
     </task>
     <task id="LOCAL-00002" summary="test13">
       <created>1612182800258</created>
@@ -618,14 +670,22 @@
       <option name="project" value="LOCAL" />
       <updated>1620468011160</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="update">
+      <created>1620529916993</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1620529916994</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75320000" />
+    <option name="totallyTimeSpent" value="78883000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17643468" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -696,14 +756,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/算法/List/004-反转链表.md" />
-    <entry file="file://$PROJECT_DIR$/前端环境/000-前端学习流程.md" />
-    <entry file="file://$PROJECT_DIR$/前端环境/001-前端环境部署.md" />
-    <entry file="file://$PROJECT_DIR$/前端环境/002-在cmd创建一个vue项目并运行.md" />
-    <entry file="file://$PROJECT_DIR$/前端环境/003-nginx部署vue项目.md" />
-    <entry file="file://$PROJECT_DIR$/SpringBoot/annotation/FeignClient.md" />
-    <entry file="file://$PROJECT_DIR$/算法/List/006-回文链表.md" />
-    <entry file="file://$PROJECT_DIR$/算法/List/007-链表的中间节点.md" />
     <entry file="file://$PROJECT_DIR$/算法/List/008-链表中倒数第k个节点.md" />
     <entry file="file://$PROJECT_DIR$/算法/List/009-判断链表是否有环.md" />
     <entry file="file://$PROJECT_DIR$/算法/List/010-删除链表节点(无重复).md" />
@@ -806,7 +858,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SpringBoot/Global-Configuration-File/global-configuraton-files.md" />
     <entry file="file://$PROJECT_DIR$/SpringBoot/基础/Optional-and-NPE.md" />
-    <entry file="file://$PROJECT_DIR$/SpringBoot/基础/question.md" />
     <entry file="file://$PROJECT_DIR$/SpringBoot/基础/Project Structure.md" />
     <entry file="file://$PROJECT_DIR$/git-win/002-pull the master of the project to local.md" />
     <entry file="file://$PROJECT_DIR$/TOOL/015-远程桌面.md" />
@@ -816,9 +867,124 @@
     <entry file="file://$PROJECT_DIR$/git-mac/002-push local project to master.md" />
     <entry file="file://$PROJECT_DIR$/git-mac/001-pull master to local.md" />
     <entry file="file://$PROJECT_DIR$/git-win/004-Push the local project to the gitlab branch.md" />
-    <entry file="file://$PROJECT_DIR$/git-win/005-merge latest code to my local project .md" />
     <entry file="file://$PROJECT_DIR$/Nginx/005-反向代理-根据访问路径跳转到不同端口的服务.md" />
     <entry file="file://$PROJECT_DIR$/Nginx/004-生产中的nginx.conf配置.md" />
+    <entry file="file://$PROJECT_DIR$/git-win/005-merge latest code to my local project .md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="643">
+            <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/List/001-从尾到头打印链表.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="230">
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot/基础/question.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="69">
+            <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot/基础/starter.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="184">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot/基础/version arbitration.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="414">
+            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDEA/tomcat/001.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot/基础/000-spark.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="69">
+            <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDEA/001-basic.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="414">
+            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDEA/002-generate unit test.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="115">
+            <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
