@@ -32,3 +32,14 @@ git commit -m "commit message"
 git push -u origin master
 ```
 
+### 如果之前给的git项目地址是错的，然后现在输入新的地址，结果出错。现在需要设置新的项目地址。
+
+```txt
+error: remote origin already exists.
+```
+
+operation
+```txt
+git remote rm origin
+git remote add origin  https://gitlab*********************.git       
+```

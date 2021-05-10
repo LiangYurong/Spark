@@ -16,6 +16,6 @@
 
 ![](https://github.com/LiangYurong/imageHouse/blob/master/%E5%9B%BE%E7%89%87%E5%BA%93/002.png)
 
-5、打开浏览器，输入http://localhost:8080/，即可访问到运行成功的项目。
+5、打开浏览器，输入http://localhost:8080/，即可访问到运行成功的项目。(但是把cmd的运行窗口关闭之后，就无法访问了，相当于项目关闭了启动)
 
 

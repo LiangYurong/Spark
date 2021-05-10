@@ -4,17 +4,22 @@
 
 去到含有nginx.exe的路径，然后输入：nginx.exe -s stop
 
-### start nginx
+### 启动nginx
 
 去到含有nginx.exe的路径，然后输入：start nginx
 
-### test nginx.conf is valid or not 
+### 重新加载nginx.conf
+
+nginx -s reload
+
+### 测试nginx.conf是否有效
 
 - use cmd , not powershell
 
 - cd到含有nginx.exe的路径，输入 nginx -t -c cong/nginx.conf
 
 - show message
+
 ```txt
 configuration file nginx.conf test is successful 
 ```
