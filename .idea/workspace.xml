@@ -2,11 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc2d620a-1f15-433c-b967-2f7be619e057" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/00-spark/2021-前端经验.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vue/前端环境/启动github下载的vue项目.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-spark/程序员文章/000 - 我自己.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-spark/程序员文章/002 - 一个合格的github仓库应该有哪些东西.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue/前端环境/vue导入element ui.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00-spark/2021-programming-experience.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-spark/2021-后端经验.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-spark/2021-question-spark.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-spark/2021-question-spark.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/00-spark/2021-work-life.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-spark/2021-work-life.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TOOL/000-script.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-spark/TOOL/000-script.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TOOL/000-tool.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-spark/TOOL/000-tool.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TOOL/001-技术人员如何更好得使用搜索.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-spark/TOOL/001-技术人员如何更好得使用搜索.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TOOL/002-google搜索关键词.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-spark/TOOL/002-google搜索关键词.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TOOL/003-chrome浏览器安装油猴插件并装脚本.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-spark/TOOL/003-chrome浏览器安装油猴插件并装脚本.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TOOL/004-科学上网.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-spark/TOOL/004-科学上网.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TOOL/005- 鼠标右键新建md文件.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-spark/TOOL/005- 鼠标右键新建md文件.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TOOL/006-深圳体检.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-spark/TOOL/006-深圳体检.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TOOL/007-电脑之间相互远程.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-spark/TOOL/007-电脑之间相互远程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TOOL/008-Axure RP9汉化.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-spark/TOOL/008-Axure RP9汉化.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TOOL/008-lang.zip" beforeDir="false" afterPath="$PROJECT_DIR$/00-spark/TOOL/008-lang.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TOOL/009-网络唤醒WOL.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-spark/TOOL/009-网络唤醒WOL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TOOL/010-win10自带录屏.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-spark/TOOL/010-win10自带录屏.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TOOL/011-腾讯视频会议app录屏.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-spark/TOOL/011-腾讯视频会议app录屏.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TOOL/012-KMSSpico软件.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-spark/TOOL/012-KMSSpico软件.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TOOL/013-navicat过期不能用.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-spark/TOOL/013-navicat过期不能用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TOOL/014-nas.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-spark/TOOL/014-nas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TOOL/015-远程桌面.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-spark/TOOL/015-远程桌面.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -106,25 +125,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="66" />
+          <entry key="md" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="66" />
+          <entry key="Markdown" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="6657" />
-          <entry key="txt" value="31" />
+          <entry key="md" value="7742" />
+          <entry key="txt" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="3" />
-          <entry key="Markdown" value="6631" />
-          <entry key="PLAIN_TEXT" value="31" />
+          <entry key="Markdown" value="7716" />
+          <entry key="PLAIN_TEXT" value="32" />
           <entry key="XML" value="23" />
         </counts>
       </usages-collector>
@@ -133,71 +152,57 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vue/前端环境/002-在cmd创建一个vue项目并运行.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="504">
-                <caret line="21" selection-start-line="21" selection-end-line="21" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/00-spark/2021-前端经验.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="5" selection-start-line="5" selection-end-line="5" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/00-spark/2021-后端经验.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="240">
-                <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/00-spark/2021-work-life.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="384">
-                <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="519">
+                <caret line="632" lean-forward="true" selection-start-line="632" selection-end-line="632" />
               </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/00-spark/程序员文章/000 - 我自己.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="384">
+                <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/00-spark/2021-question-spark.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="264">
+                <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/00-spark/TOOL/000-tool.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Vue/前端环境/启动github下载的vue项目.md">
+        <entry file="file://$PROJECT_DIR$/00-spark/TOOL/000-script.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="264">
-                <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vue/前端环境/激活webstorm到2089年.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <first_editor relative-caret-position="288">
+                <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -226,10 +231,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/算法/算法-List/019-单链表的简单实现.md" />
-        <option value="$PROJECT_DIR$/算法/算法-List/011-删除链表节点(有重复值).md" />
-        <option value="$PROJECT_DIR$/算法/排序/000-spark.md" />
-        <option value="$PROJECT_DIR$/算法/排序/001-归并排序.md" />
         <option value="$PROJECT_DIR$/算法/排序/002-冒泡排序.md" />
         <option value="$PROJECT_DIR$/算法/排序/003-选择排序.md" />
         <option value="$PROJECT_DIR$/算法/排序/004-堆排序.md" />
@@ -267,7 +268,6 @@
         <option value="$PROJECT_DIR$/SpringBoot/dependency/常用的pom.xml.md" />
         <option value="$PROJECT_DIR$/SpringBoot/dependency/00-常用的pom.xml.md" />
         <option value="$PROJECT_DIR$/SpringBoot/依赖和插件/maven-surefire-plugin插件.md" />
-        <option value="$PROJECT_DIR$/00-spark/2021-question-spark.md" />
         <option value="$PROJECT_DIR$/00-spark/2021-programming-experience.md" />
         <option value="$PROJECT_DIR$/SpringBoot/依赖和插件/maven-compiler-plugin插件.md" />
         <option value="$PROJECT_DIR$/SpringBoot/面试题/001-怎么解决跨域问题.md" />
@@ -275,8 +275,13 @@
         <option value="$PROJECT_DIR$/Vue/前端环境/使用webstorm启动vue项目.md" />
         <option value="$PROJECT_DIR$/00-spark/2021-前端经验.md" />
         <option value="$PROJECT_DIR$/00-spark/2021-后端经验.md" />
-        <option value="$PROJECT_DIR$/00-spark/2021-work-life.md" />
         <option value="$PROJECT_DIR$/Vue/前端环境/启动github下载的vue项目.md" />
+        <option value="$PROJECT_DIR$/00-spark/程序员文章/一个合格的github仓库应该有哪些东西.md" />
+        <option value="$PROJECT_DIR$/Vue/前端环境/vue引用其他工具插件.md" />
+        <option value="$PROJECT_DIR$/00-spark/程序员文章/我自己.md" />
+        <option value="$PROJECT_DIR$/00-spark/2021-work-life.md" />
+        <option value="$PROJECT_DIR$/00-spark/2021-question-spark.md" />
+        <option value="$PROJECT_DIR$/00-spark/程序员文章/002 - 怎么找资源.md" />
       </list>
     </option>
   </component>
@@ -335,24 +340,8 @@
             <path>
               <item name="yurong333-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="yurong333-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yurong333-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yurong333-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="面试题" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yurong333-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yurong333-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="Vue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yurong333-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yurong333-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="Vue" type="462c0819:PsiDirectoryNode" />
-              <item name="前端环境" type="462c0819:PsiDirectoryNode" />
+              <item name="00-spark" type="462c0819:PsiDirectoryNode" />
+              <item name="程序员文章" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yurong333-blog" type="b2602c69:ProjectViewProjectNode" />
@@ -368,7 +357,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1620813585703" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1620899897167" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -383,6 +372,7 @@
       <recent name="C:\Users\lyr\Desktop\我的\yurong333-blog\Vue\前端环境\激活jar包" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lyr\Desktop\我的\yurong333-blog\00-spark" />
       <recent name="C:\Users\lyr\Desktop\我的\yurong333-blog\Vue" />
       <recent name="C:\Users\lyr\Desktop\我的\yurong333-blog\SpringBoot\Global-Configuration-File" />
     </key>
@@ -557,13 +547,6 @@
       <workItem from="1620372604238" duration="3359000" />
       <workItem from="1620436285464" duration="954000" />
       <workItem from="1620440111682" duration="12545000" />
-    </task>
-    <task id="LOCAL-00004" summary="test">
-      <created>1619053964377</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1619053964377</updated>
     </task>
     <task id="LOCAL-00005" summary="create new folder named MyBatis-Plus">
       <created>1619054138809</created>
@@ -901,11 +884,18 @@
       <option name="project" value="LOCAL" />
       <updated>1620732196158</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="2021-05-12">
+      <created>1620867649711</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1620867649711</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112981000" />
+    <option name="totallyTimeSpent" value="123737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -984,71 +974,14 @@
     <MESSAGE value="ws激活步骤与工具" />
     <MESSAGE value="2021-05-10" />
     <MESSAGE value="2021-05-11" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021-05-11" />
+    <MESSAGE value="2021-05-12" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-05-12" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/算法/Tree/003-深度优先搜索.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法/Tree/002-广度优先搜索.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="528">
-            <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法/Tree/004-二叉树的最大最小深度.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="528">
-            <caret line="22" selection-start-line="22" selection-end-line="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法/Tree/005-哈夫曼.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="5424">
-            <caret line="226" column="1" selection-start-line="226" selection-start-column="1" selection-end-line="226" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法/Tree/006-中序遍历.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="624">
-            <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法/Tree/007-根据数组建立二叉树.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="384">
-            <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/算法/Tree/008-后序遍历.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1100,7 +1033,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TOOL/015-远程桌面.md">
+    <entry file="file://$PROJECT_DIR$/00-spark/TOOL/015-远程桌面.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="240">
@@ -1356,16 +1289,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/00-spark/2021-question-spark.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="144">
-            <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SpringBoot/依赖和插件/maven-surefire-plugin插件.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1460,21 +1383,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/00-spark/2021-work-life.md">
+    <entry file="file://$PROJECT_DIR$/Vue/前端环境/启动github下载的vue项目.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="384">
-            <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="288">
+            <caret line="12" selection-start-line="12" selection-end-line="12" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/前端环境/启动github下载的vue项目.md">
+    <entry file="file://$PROJECT_DIR$/00-spark/程序员文章/002 - 一个合格的github仓库应该有哪些东西.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+          <first_editor relative-caret-position="144">
+            <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/前端环境/vue导入element ui.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="552">
+            <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-spark/程序员文章/000 - 我自己.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="384">
+            <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-spark/2021-work-life.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="519">
+            <caret line="632" lean-forward="true" selection-start-line="632" selection-end-line="632" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-spark/2021-question-spark.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
           <first_editor relative-caret-position="264">
-            <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+            <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-spark/TOOL/000-tool.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-spark/程序员文章/002 - 怎么找资源.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="168">
+            <caret line="7" lean-forward="true" selection-end-line="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-spark/TOOL/000-script.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="288">
+            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           </first_editor>
           <second_editor />
         </state>
