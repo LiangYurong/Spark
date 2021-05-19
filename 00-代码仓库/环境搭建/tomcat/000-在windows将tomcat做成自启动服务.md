@@ -109,4 +109,4 @@ war包下载链接：https://115.com/s/swnsfod3w3l?password=i1f3&#   访问码�
 
 - 将testdemo文件夹的所有文件，剪切到ROOT文件夹。
 
-- 开启toncat服务，ok。访问路径就可以不带testmo项目名。
+- 开启tomcat服务，ok。访问路径就可以不带testmo项目名:localhost:8092/hi

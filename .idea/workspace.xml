@@ -116,14 +116,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="9578" />
+          <entry key="md" value="9580" />
           <entry key="txt" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="7" />
-          <entry key="Markdown" value="9548" />
+          <entry key="Markdown" value="9550" />
           <entry key="PLAIN_TEXT" value="65" />
           <entry key="XML" value="23" />
         </counts>
@@ -182,8 +182,8 @@
         <entry file="file://$PROJECT_DIR$/00-代码仓库/环境搭建/tomcat/000-在windows将tomcat做成自启动服务.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="159">
-                <caret line="82" column="45" selection-start-line="82" selection-start-column="45" selection-end-line="82" selection-end-column="45" />
+              <first_editor relative-caret-position="687">
+                <caret line="111" column="52" lean-forward="true" selection-start-line="111" selection-start-column="52" selection-end-line="111" selection-end-column="52" />
               </first_editor>
               <second_editor />
             </state>
@@ -370,7 +370,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1621417197785" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1621418073822" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/IDEAProject/例子/demo-springboot-MyBatisPlus - 自带方法 - 其他方法 - 三层架构" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -430,14 +430,7 @@
       <workItem from="1620440111682" duration="12545000" />
       <workItem from="1620979325052" duration="5924000" />
       <workItem from="1621221621923" duration="8159000" />
-      <workItem from="1621297699203" duration="12214000" />
-    </task>
-    <task id="LOCAL-00011" summary="add new file named 000-basic.md in git folder">
-      <created>1619055881858</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1619055881858</updated>
+      <workItem from="1621297699203" duration="13114000" />
     </task>
     <task id="LOCAL-00012" summary="new folder named 快捷操作">
       <created>1619057782954</created>
@@ -775,11 +768,18 @@
       <option name="project" value="LOCAL" />
       <updated>1621416865989</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="2021-05-19">
+      <created>1621417489253</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1621417489253</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="152695000" />
+    <option name="totallyTimeSpent" value="153595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1330,8 +1330,8 @@
     <entry file="file://$PROJECT_DIR$/00-代码仓库/环境搭建/tomcat/000-在windows将tomcat做成自启动服务.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="159">
-            <caret line="82" column="45" selection-start-line="82" selection-start-column="45" selection-end-line="82" selection-end-column="45" />
+          <first_editor relative-caret-position="687">
+            <caret line="111" column="52" lean-forward="true" selection-start-line="111" selection-start-column="52" selection-end-line="111" selection-end-column="52" />
           </first_editor>
           <second_editor />
         </state>
