@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc2d620a-1f15-433c-b967-2f7be619e057" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/00-代码仓库/环境搭建/000-本地一定要安装maven环境.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-代码仓库/环境搭建/tomcat/001-卸载tomcat服务.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git-win/012-gitlab.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-代码仓库/001/011-enum和switch的使用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-代码仓库/环境搭建/001-全局配置文件中的数据库配置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyBatis/002-SpringBoot整合MyBatis操作MySQL.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00-代码仓库/001/004-SpringBoot实现自带日志.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-代码仓库/001/004-SpringBoot实现自带日志.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-win/000-basic.md" beforeDir="false" afterPath="$PROJECT_DIR$/git-win/000-git配置（只需要配置一次）.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-win/000-git-spark.md" beforeDir="false" afterPath="$PROJECT_DIR$/git-win/000-git星火.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-win/001-Push the local project to the master of gitlab.md" beforeDir="false" afterPath="$PROJECT_DIR$/git-win/001-本地项目push到master.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-win/002-pull the master of the project to local.md" beforeDir="false" afterPath="$PROJECT_DIR$/git-win/002-拉取master到本地.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-win/003-Pull the branch of the gitlab project to the local.md" beforeDir="false" afterPath="$PROJECT_DIR$/git-win/003-拉取gitlab的分支到本地.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-win/004-Push the local project to the gitlab branch.md" beforeDir="false" afterPath="$PROJECT_DIR$/git-win/004-push本地项目到gitlab分支.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-win/005-merge latest code to my local project .md" beforeDir="false" afterPath="$PROJECT_DIR$/git-win/005-合并github最新的代码到本地文件夹.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-win/006-use ssh to connect gitlab and github at the same time.md" beforeDir="false" afterPath="$PROJECT_DIR$/git-win/006-使用ssh同时连接gitlab和github.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-win/007-local computer connect to git.md" beforeDir="false" afterPath="$PROJECT_DIR$/git-win/007-本地设置git的种种.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-win/008-Clone the master of the github project to a local folder.md" beforeDir="false" afterPath="$PROJECT_DIR$/git-win/008-克隆github仓库到本地文件夹.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-win/009-Some local folders cannot be uploaded to gitlabmaster.md" beforeDir="false" afterPath="$PROJECT_DIR$/git-win/009-部分本地文件无法上传到master.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-win/010-set-ignore-file.md" beforeDir="false" afterPath="$PROJECT_DIR$/git-win/010-设置git忽略的文件.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-win/001-本地项目push到master.md" beforeDir="false" afterPath="$PROJECT_DIR$/git-win/001-本地项目push到master.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -121,24 +109,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="104" />
+          <entry key="md" value="112" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="104" />
+          <entry key="Markdown" value="112" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="9866" />
+          <entry key="md" value="9982" />
           <entry key="txt" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="7" />
-          <entry key="Markdown" value="9836" />
+          <entry key="Markdown" value="9952" />
           <entry key="PLAIN_TEXT" value="65" />
           <entry key="XML" value="23" />
         </counts>
@@ -148,11 +136,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/git-win/007-本地设置git的种种.md">
+        <entry file="file://$PROJECT_DIR$/git-win/004-push本地项目到gitlab分支.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="77">
-                <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/git-win/001-本地项目push到master.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="408">
+                <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -160,21 +158,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/git-win/000-git配置（只需要配置一次）.md">
+        <entry file="file://$PROJECT_DIR$/00-代码仓库/环境搭建/001-全局配置文件中的数据库配置.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-67" />
+              <first_editor relative-caret-position="168">
+                <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/git-win/012-gitlab.md">
+        <entry file="file://$PROJECT_DIR$/00-代码仓库/001/011-enum和switch的使用.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="192">
-                <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <first_editor relative-caret-position="2352">
+                <caret line="102" column="67" selection-start-line="102" selection-start-column="67" selection-end-line="102" selection-end-column="67" />
               </first_editor>
               <second_editor />
             </state>
@@ -182,11 +182,29 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/00-代码仓库/环境搭建/000-本地一定要安装maven环境.md">
+        <entry file="file://$PROJECT_DIR$/MyBatis/002-SpringBoot整合MyBatis操作MySQL.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="687">
-                <caret line="83" column="89" selection-start-line="83" selection-start-column="89" selection-end-line="83" selection-end-column="89" />
+              <first_editor relative-caret-position="96">
+                <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+                <folding>
+                  <element signature="imports" expanded="true" />
+                  <element signature="imports" expanded="true" />
+                  <element signature="imports" expanded="true" />
+                  <element signature="e#388#389#0" expanded="true" />
+                  <element signature="e#431#432#0" expanded="true" />
+                  <element signature="e#527#528#0" expanded="true" />
+                  <element signature="e#573#574#0" expanded="true" />
+                  <element signature="e#652#653#0" expanded="true" />
+                  <element signature="e#692#693#0" expanded="true" />
+                  <element signature="e#774#775#0" expanded="true" />
+                  <element signature="e#816#817#0" expanded="true" />
+                  <element signature="e#916#917#0" expanded="true" />
+                  <element signature="e#957#958#0" expanded="true" />
+                  <element signature="imports" expanded="true" />
+                  <element signature="e#301#302#0" expanded="true" />
+                  <element signature="e#357#358#0" expanded="true" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -194,24 +212,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/git-win/006-使用ssh同时连接gitlab和github.md">
+        <entry file="file://$PROJECT_DIR$/git-win/005-合并github最新的代码到本地文件夹.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1929">
-                <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/00-代码仓库/环境搭建/tomcat/001-卸载tomcat服务.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="168">
-                <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -239,10 +243,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/git-mac/001-pull master to local.md" />
-        <option value="$PROJECT_DIR$/TOOL/015-远程桌面.md" />
-        <option value="$PROJECT_DIR$/Nginx/003-nginx.conf.md" />
-        <option value="$PROJECT_DIR$/git-win/005-merge latest code to my local project .md" />
         <option value="$PROJECT_DIR$/Nginx/001-basic.md" />
         <option value="$PROJECT_DIR$/Nginx/002-command.md" />
         <option value="$PROJECT_DIR$/Nginx/004-生产中的nginx.conf配置.md" />
@@ -290,6 +290,10 @@
         <option value="$PROJECT_DIR$/git-win/008-Clone the master of the github project to a local folder.md" />
         <option value="$PROJECT_DIR$/git-win/012-gitlab.md" />
         <option value="$PROJECT_DIR$/00-代码仓库/环境搭建/000-本地一定要安装maven环境.md" />
+        <option value="$PROJECT_DIR$/git-win/001-本地项目push到master.md" />
+        <option value="$PROJECT_DIR$/00-代码仓库/环境搭建/001-全局配置文件中的数据库配置.md" />
+        <option value="$PROJECT_DIR$/00-代码仓库/001/011-enum和switch的使用.md" />
+        <option value="$PROJECT_DIR$/MyBatis/002-SpringBoot整合MyBatis操作MySQL.md" />
       </list>
     </option>
   </component>
@@ -364,14 +368,7 @@
             <path>
               <item name="yurong333-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="yurong333-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="00-代码仓库" type="462c0819:PsiDirectoryNode" />
-              <item name="环境搭建" type="462c0819:PsiDirectoryNode" />
-              <item name="tomcat" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yurong333-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yurong333-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="git-win" type="462c0819:PsiDirectoryNode" />
+              <item name="MyBatis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yurong333-blog" type="b2602c69:ProjectViewProjectNode" />
@@ -403,9 +400,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1621421346836" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1621427817909" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/IDEAProject/例子/demo-springboot-MyBatisPlus - 自带方法 - 其他方法 - 三层架构" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IDEAProject/例子/多数据源-aop切换-demo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Facets" />
@@ -463,14 +460,7 @@
       <workItem from="1620440111682" duration="12545000" />
       <workItem from="1620979325052" duration="5924000" />
       <workItem from="1621221621923" duration="8159000" />
-      <workItem from="1621297699203" duration="15641000" />
-    </task>
-    <task id="LOCAL-00013" summary="add many files in 快捷操作 folder">
-      <created>1619058373449</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1619058373449</updated>
+      <workItem from="1621297699203" duration="18329000" />
     </task>
     <task id="LOCAL-00014" summary="add many files in 快捷操作 folder">
       <created>1619058439965</created>
@@ -808,11 +798,18 @@
       <option name="project" value="LOCAL" />
       <updated>1621418390816</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="2021-05-19">
+      <created>1621421536289</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1621421536289</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156122000" />
+    <option name="totallyTimeSpent" value="158810000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -901,58 +898,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SpringBoot/基础/ApplicationContextAware.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="192">
-            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot/基础/启动依赖和自动配置.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="48">
-            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot/基础/version arbitration.md" />
-    <entry file="file://$PROJECT_DIR$/SpringBoot/dependency/自定义依赖的版本.md" />
-    <entry file="file://$PROJECT_DIR$/SpringBoot/依赖和插件/父类依赖.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="504">
-            <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot/依赖和插件/打包成war包.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="192">
-            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot/依赖和插件/创建可执行的jar包.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="389">
-            <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="23" selection-end-column="64" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SpringBoot/依赖和插件/web场景启动器.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1304,16 +1249,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/git-win/002-拉取master到本地.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="399">
-            <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="31" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/git-win/008-克隆github仓库到本地文件夹.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1375,8 +1310,100 @@
     <entry file="file://$PROJECT_DIR$/00-代码仓库/环境搭建/000-本地一定要安装maven环境.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="687">
-            <caret line="83" column="89" selection-start-line="83" selection-start-column="89" selection-end-line="83" selection-end-column="89" />
+          <first_editor relative-caret-position="1680">
+            <caret line="84" selection-start-line="84" selection-end-line="84" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git-win/003-拉取gitlab的分支到本地.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git-win/002-拉取master到本地.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="399">
+            <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git-win/005-合并github最新的代码到本地文件夹.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git-win/004-push本地项目到gitlab分支.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git-win/001-本地项目push到master.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="408">
+            <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-代码仓库/环境搭建/001-全局配置文件中的数据库配置.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="168">
+            <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-代码仓库/001/011-enum和switch的使用.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2352">
+            <caret line="102" column="67" selection-start-line="102" selection-start-column="67" selection-end-line="102" selection-end-column="67" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBatis/002-SpringBoot整合MyBatis操作MySQL.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="96">
+            <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <folding>
+              <element signature="imports" expanded="true" />
+              <element signature="imports" expanded="true" />
+              <element signature="imports" expanded="true" />
+              <element signature="e#388#389#0" expanded="true" />
+              <element signature="e#431#432#0" expanded="true" />
+              <element signature="e#527#528#0" expanded="true" />
+              <element signature="e#573#574#0" expanded="true" />
+              <element signature="e#652#653#0" expanded="true" />
+              <element signature="e#692#693#0" expanded="true" />
+              <element signature="e#774#775#0" expanded="true" />
+              <element signature="e#816#817#0" expanded="true" />
+              <element signature="e#916#917#0" expanded="true" />
+              <element signature="e#957#958#0" expanded="true" />
+              <element signature="imports" expanded="true" />
+              <element signature="e#301#302#0" expanded="true" />
+              <element signature="e#357#358#0" expanded="true" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>

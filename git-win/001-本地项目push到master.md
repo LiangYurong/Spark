@@ -22,7 +22,7 @@ git commit -m "commit message"
 git push -u origin master
 ```
 
-2.  only need to do this after first link .
+2. 之后只需要这么做
 
 ```
 git add .   
