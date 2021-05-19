@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc2d620a-1f15-433c-b967-2f7be619e057" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/00-代码仓库/环境搭建/tomcat/000-在windows将tomcat做成自启动服务.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nginx/002-command.md" beforeDir="false" afterPath="$PROJECT_DIR$/Nginx/002-命令.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-代码仓库/环境搭建/tomcat/000-在windows将tomcat做成自启动服务.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-代码仓库/环境搭建/tomcat/000-在windows将tomcat做成自启动服务.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -117,15 +116,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="9564" />
-          <entry key="txt" value="64" />
+          <entry key="md" value="9578" />
+          <entry key="txt" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="7" />
-          <entry key="Markdown" value="9534" />
-          <entry key="PLAIN_TEXT" value="64" />
+          <entry key="Markdown" value="9548" />
+          <entry key="PLAIN_TEXT" value="65" />
           <entry key="XML" value="23" />
         </counts>
       </usages-collector>
@@ -183,8 +182,8 @@
         <entry file="file://$PROJECT_DIR$/00-代码仓库/环境搭建/tomcat/000-在windows将tomcat做成自启动服务.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2664">
-                <caret line="111" column="35" selection-start-line="111" selection-start-column="35" selection-end-line="111" selection-end-column="35" />
+              <first_editor relative-caret-position="159">
+                <caret line="82" column="45" selection-start-line="82" selection-start-column="45" selection-end-line="82" selection-end-column="45" />
               </first_editor>
               <second_editor />
             </state>
@@ -371,7 +370,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1621416106479" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1621417197785" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/IDEAProject/例子/demo-springboot-MyBatisPlus - 自带方法 - 其他方法 - 三层架构" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -431,14 +430,7 @@
       <workItem from="1620440111682" duration="12545000" />
       <workItem from="1620979325052" duration="5924000" />
       <workItem from="1621221621923" duration="8159000" />
-      <workItem from="1621297699203" duration="11586000" />
-    </task>
-    <task id="LOCAL-00010" summary="update README.md --">
-      <created>1619055613258</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1619055613258</updated>
+      <workItem from="1621297699203" duration="12214000" />
     </task>
     <task id="LOCAL-00011" summary="add new file named 000-basic.md in git folder">
       <created>1619055881858</created>
@@ -776,11 +768,18 @@
       <option name="project" value="LOCAL" />
       <updated>1621386734658</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="2021-05-19">
+      <created>1621416865989</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1621416865989</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="152067000" />
+    <option name="totallyTimeSpent" value="152695000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -837,7 +836,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test" />
     <MESSAGE value="create new folder named MyBatis-Plus" />
     <MESSAGE value="update README.md 2021-04-22" />
     <MESSAGE value="update README.md" />
@@ -862,7 +860,8 @@
     <MESSAGE value="2021-05-17" />
     <MESSAGE value="添加代码仓库" />
     <MESSAGE value="2021-05-18" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021-05-18" />
+    <MESSAGE value="2021-05-19" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-05-19" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1331,8 +1330,8 @@
     <entry file="file://$PROJECT_DIR$/00-代码仓库/环境搭建/tomcat/000-在windows将tomcat做成自启动服务.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2664">
-            <caret line="111" column="35" selection-start-line="111" selection-start-column="35" selection-end-line="111" selection-end-column="35" />
+          <first_editor relative-caret-position="159">
+            <caret line="82" column="45" selection-start-line="82" selection-start-column="45" selection-end-line="82" selection-end-column="45" />
           </first_editor>
           <second_editor />
         </state>
