@@ -155,6 +155,17 @@ debug=true
     <!--这里需要把name改为java包下面的主路径。这里其实不应该建成com.lyr.demo，而应该是com.lyr.SpringBootDemo-->
     <logger name="com.lyr.demo" level="debug" additivity="false">
 ```
+
+```xml
+    <!--这里需要把name改成工程名.也就是改为java包下面的主路径-->
+    <logger name="com.lyr.demo" level="debug" additivity="false">
+        <!--输出到log文件-->
+        <appender-ref ref="file" />
+        <!--输出到控制台-->
+<!--        <appender-ref ref="stdout"/>-->
+    </logger>
+```
+
 源代码
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>

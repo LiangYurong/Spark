@@ -1,3 +1,8 @@
+
+## 不推荐的做法。推荐使用
+
+git pull --rebase origin master
+
 ### 一、background
 
 Clone the master of the github project to a local folder .
