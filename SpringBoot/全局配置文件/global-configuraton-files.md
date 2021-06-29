@@ -1,12 +1,12 @@
-### 1. Basic
+### 1. 基础
 
-Multiple global configuration can be used in Resources folder .
+多配置文件的设置
 
 - application.properties 
 - application-dev.properties # 开发环境
 - application-prod.properties # 生产环境
 
-### 2. how to make a global configuration file take effect
+### 2. 怎么去启动某个环境的配置
 
 in application.yml
 

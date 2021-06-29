@@ -1,6 +1,9 @@
 
+### 说明
 
-### 1、使用wrapper的调用方法，需要注意字段的使用。看清楚
+QueryWrapper是条件构造器，构造某些条件，然后让mybatis-plus去执行。
+
+### 使用wrapper的调用方法，需要注意字段的使用。看清楚
 
 ```txt
 QueryWrapper<Student> wrapper1 = new QueryWrapper<>();

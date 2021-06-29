@@ -10,10 +10,13 @@ push local project to empty repository on gitlab website
 git init  
 
 git config --global user.name "your name" 
+// git config --global user.name "liangyurong" 
     
 git config --global user.email "your email"
+// git config --global user.email "liangyurong@qq.com" 
 
 git remote add origin  https://gitlab*********************.git       
+// git remote add origin http://120.78.12.228:8888/liangyurong/OrderWeChatPay.git
 
 git add .   
 
