@@ -1,4 +1,4 @@
-### 1. project root directory
+### 1. 根文件夹
 
 src/main/java ：source code
 
@@ -6,11 +6,9 @@ src/main/resources：resources code
 
 src/test/java：test code
 
-### 2. start class 
+### 2. 启动类
 
-i usually named it as RunApp.java .
-
-the startup class needs to be on top of other classes . 
+一般命名为RunApp.java 。 必须在其他类的上面。
 
 ### 3. Src/main/java
 

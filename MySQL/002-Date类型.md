@@ -22,8 +22,7 @@ TIMESTAMP - 格式: 唯一的数字
 
 timedate类型，build_date
 
-```java
-   
+```text
     private Date buildDate;
 
     @DateTimeFormat(pattern="yyyy-MM-dd")
