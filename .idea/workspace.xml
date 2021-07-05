@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc2d620a-1f15-433c-b967-2f7be619e057" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/00-Java/数值计算/001-float不保留小数点.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot/工具-xml/001-xml和map之间的互转.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot/工具-其他/001-获取客户端请求ip.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot/工具-网络/003-java远程访问url接口并获取结果.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot/日志/bug/001-linux环境下无法生成日志文件.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据库框架-MyBatis-Plus/000-数据库依赖.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot/日志/000-logback-spring文件.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot/网络/001-模仿get请求.md" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/工具-网络/001-模仿get请求.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot/网络/002-模仿post请求的两种方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/工具-网络/002-模仿post请求的两种方法.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -170,34 +163,34 @@
           <entry key="000-问题" value="1" />
           <entry key="006-事务" value="1" />
           <entry key="java" value="1" />
-          <entry key="md" value="280" />
+          <entry key="md" value="281" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="1" />
-          <entry key="Markdown" value="280" />
+          <entry key="Markdown" value="281" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="14958" />
-          <entry key="txt" value="49" />
+          <entry key="md" value="15134" />
+          <entry key="txt" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="57" />
-          <entry key="Markdown" value="14780" />
-          <entry key="PLAIN_TEXT" value="170" />
+          <entry key="JAVA" value="58" />
+          <entry key="Markdown" value="14955" />
+          <entry key="PLAIN_TEXT" value="174" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SpringBoot/工具-xml/001-xml和map之间的互转.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -209,12 +202,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringBoot/工具-其他/001-获取客户端请求ip.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SpringBoot/日志/000-logback-spring文件.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="728">
-                <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <first_editor relative-caret-position="2912">
+                <caret line="122" column="4" selection-start-line="122" selection-start-column="4" selection-end-line="122" selection-end-column="10" />
+                <folding>
+                  <element signature="imports" expanded="true" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -295,7 +291,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MongoDB/001-基础.md" />
         <option value="$PROJECT_DIR$/计算机网络/000-网络面试题.md" />
         <option value="$PROJECT_DIR$/计算机网络/001-通信基础.md" />
         <option value="$PROJECT_DIR$/计算机网络/003-获取主机名字和主机ip.md" />
@@ -346,6 +341,7 @@
         <option value="$PROJECT_DIR$/SpringBoot/日志/bug/001-linux环境下无法生成日志文件.md" />
         <option value="$PROJECT_DIR$/数据库框架-MyBatis-Plus/000-数据库依赖.md" />
         <option value="$PROJECT_DIR$/SpringBoot/工具-xml/001-xml和map之间的互转.md" />
+        <option value="$PROJECT_DIR$/SpringBoot/日志/000-logback-spring文件.md" />
       </list>
     </option>
   </component>
@@ -438,7 +434,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1625307256276" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1625455114088" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -517,14 +513,7 @@
       <workItem from="1624497465719" duration="15175000" />
       <workItem from="1624842564314" duration="19233000" />
       <workItem from="1625014822763" duration="47748000" />
-      <workItem from="1625446399682" duration="1202000" />
-    </task>
-    <task id="LOCAL-00030" summary="update">
-      <created>1619518319793</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1619518319793</updated>
+      <workItem from="1625446399682" duration="2521000" />
     </task>
     <task id="LOCAL-00031" summary="update">
       <created>1619577382436</created>
@@ -862,11 +851,18 @@
       <option name="project" value="LOCAL" />
       <updated>1625274464380</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="2021-07-05 备份">
+      <created>1625450982864</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1625450982865</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="327637000" />
+    <option name="totallyTimeSpent" value="328956000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -923,7 +919,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="排序" />
     <MESSAGE value=" 删除远程桌面的历史连接" />
     <MESSAGE value="nginx" />
     <MESSAGE value="ws激活步骤与工具" />
@@ -948,21 +943,14 @@
     <MESSAGE value="整理笔记" />
     <MESSAGE value="整理笔记2021-07-01" />
     <MESSAGE value="2021-07-02 笔记整理" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021-07-02 笔记整理" />
+    <MESSAGE value="2021-07-05 备份" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-07-05 备份" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/数据库框架-MyBatis-Plus/007-xxxMapper的xml文件.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/数据库框架-JPA/001-jpa增删改查.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1273,6 +1261,9 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="392">
             <caret line="23" column="64" lean-forward="true" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
+            <folding>
+              <element signature="e#2124#3590#0" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1436,6 +1427,19 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot/日志/000-logback-spring文件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2912">
+            <caret line="122" column="4" selection-start-line="122" selection-start-column="4" selection-end-line="122" selection-end-column="10" />
+            <folding>
+              <element signature="imports" expanded="true" />
+            </folding>
+          </first_editor>
           <second_editor />
         </state>
       </provider>
