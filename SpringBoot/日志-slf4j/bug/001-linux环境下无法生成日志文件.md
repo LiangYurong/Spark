@@ -1,4 +1,25 @@
 
+### bug描述:linux环境下无法生成日志文件
+
+```text
+    在windows下可以在D:生成日志文件，在linux环境下无法在D:生成日志文件，即使有D:这个文件夹
+
+    <!--这里可以修改日志生成位置-->
+    <property name="log.path" value="D:/log/logback.log" />
+                                                  <property name="LOG_HOME" value="D:/log"/>
+```
+
+### 解决：文件路径的设置问题
+```text
+    生成的日志文件路径：在tomcat的根目录下的log文件夹中
+
+    <!--这里可以修改日志生成位置-->
+    <property name="log.path" value="../log/logback.log" />
+    <property name="LOG_HOME" value="../log"/>
+
+```
+
+### 星火：如果我就是想设置在root目录下的D:文件夹，那应该怎么做？
 
 
 
