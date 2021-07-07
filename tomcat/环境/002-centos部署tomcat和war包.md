@@ -38,7 +38,7 @@ rm -rf manager
 
 ```
 
-### 启动与关闭
+### 四、Tomcat的启动与关闭，部署war包（使用Xshell软件的命令行）
 
 首先需要进入到bin文件夹
 
@@ -58,7 +58,7 @@ rm -rf manager
 比如访问：http://134.175.207.83:8078/hi，失败
 
 因此需要更改tomcat的访问端口
-- 进入conf目录，修改server.xml，输入命令：vi server.xml 
+- 进入conf目录，修改server.xml，输入命令：vi server.xml
 - 进入之后，输入i，可以编辑。
 - 编辑完，按Esc退出编辑
 - 编辑完，保存并推出    :wq
@@ -72,9 +72,9 @@ rm -rf manager
 
 ```
 
+### 五、Tomcat的启动与关闭，部署war包（使用WinSCP软件的GUI界面进行操作）
 
-
-
+可以不使用命令行，直接界面进行操作。
 
 
 
