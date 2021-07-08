@@ -2,6 +2,8 @@
 
 ### 步骤
 
+前提：IDEA，在project structure中引入ojdbc8.jar包
+
 说明：连接本地和远程oracle都可以。
 
 1、IDEA通过project structure添加一个jar包。名称为ojdbc8.jar
