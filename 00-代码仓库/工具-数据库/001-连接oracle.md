@@ -2,7 +2,10 @@
 
 ### 步骤
 
+说明：连接本地和远程oracle都可以。
+
 1、IDEA通过project structure添加一个jar包。名称为ojdbc8.jar
+
 2、编写代码。（pom.xml文件中不需要引入其他的依赖）
 
 下面的依赖是不需要的
@@ -29,12 +32,14 @@ public class ConnectOracle {
         PreparedStatement pre = null;
         // 3、创建一个结果集对象
         ResultSet result = null;
+        // 4、数据库信息
+        String url = "jdbc:oracle:thin:@159.75.209.135:1521:orcl";
+        String user = "c##med_res";
+        String password = "zteict2017";
         try {
             Class.forName("oracle.jdbc.driver.OracleDriver");
             System.out.println("开始尝试连接数据库！");
-            String url = "jdbc:oracle:thin:@159.75.209.135:1521:orcl";
-            String user = "c##med_res";
-            String password = "zteict2017";
+
             con = DriverManager.getConnection(url, user, password);
             System.out.println("连接成功！");
         }
