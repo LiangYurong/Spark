@@ -1,5 +1,14 @@
 
+### 注意、如果同一个linux服务器部署了多个tomcat
 
+除了监听客户端请求的端口不同(8080一般改为对应项目的端口即可)
+```text
+<Connector port="8080" protocol="HTTP/1.1" connectionTimeout="20000" redirectPort="8443" />
+```
+关闭tomcat的端口也应该不同。（第一个就默认8005，第二个可以是8505，第三个可以是8605.。。）
+```text
+<Server port="8505" shutdown="SHUTDOWN">
+```
 
 ### 一、下载tomcat8.5.68
 
@@ -66,10 +75,7 @@ rm -rf manager
 
 修改的端口在这，将8080改为你的端口
 ```text
-<Connector port="8080" protocol="HTTP/1.1"
-               connectionTimeout="20000"
-               redirectPort="8443" />
-
+<Connector port="8080" protocol="HTTP/1.1" connectionTimeout="20000" redirectPort="8443" />
 ```
 
 ### 五、Tomcat的启动与关闭，部署war包（使用WinSCP软件的GUI界面进行操作）
