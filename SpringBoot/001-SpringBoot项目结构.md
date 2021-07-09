@@ -51,3 +51,8 @@ src/test/java：test code
 
 - xxxTest.java
 
+### 6、dto
+
+data transfer object , 数据传输对象
+
+用于远程调用等需要大量传输对象的地方

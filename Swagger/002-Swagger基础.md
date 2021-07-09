@@ -1,9 +1,7 @@
 
-### 访问swagger文档
 
-启动springboot项目，浏览器输入：http://localhost:8090/swagger-ui.html#/
 
-端口需要根据项目调整
+
 
 ### 使用和禁用Swagger文档
 
