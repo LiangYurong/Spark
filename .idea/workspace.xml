@@ -6,14 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc2d620a-1f15-433c-b967-2f7be619e057" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/00-Java/反射/001-反射基础.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot/pom/002-build.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swagger/001-配置swaager.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00-spark/2021-question-spark.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-spark/2021-question-spark.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/00-代码仓库/001-结果返回类-我自己写的.md" beforeDir="false" afterPath="$PROJECT_DIR$/00-代码仓库/001-结果返回类-我自己写的.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot/001-SpringBoot项目结构.md" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/001-SpringBoot项目结构.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Swagger/001-Swagger基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/Swagger/002-Swagger基础.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -172,12 +166,14 @@
         <counts>
           <entry key="000-问题" value="1" />
           <entry key="006-事务" value="1" />
+          <entry key="html" value="1" />
           <entry key="java" value="1" />
           <entry key="md" value="399" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="HTML" value="1" />
           <entry key="JAVA" value="1" />
           <entry key="Markdown" value="353" />
           <entry key="PLAIN_TEXT" value="48" />
@@ -185,15 +181,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="21548" />
-          <entry key="txt" value="101" />
+          <entry key="md" value="21645" />
+          <entry key="txt" value="108" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="127" />
-          <entry key="Markdown" value="19688" />
-          <entry key="PLAIN_TEXT" value="1832" />
+          <entry key="JAVA" value="128" />
+          <entry key="Markdown" value="19784" />
+          <entry key="PLAIN_TEXT" value="1839" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -201,18 +197,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Swagger/002-Swagger基础.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="84">
-                <caret line="3" selection-start-line="3" selection-end-line="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Swagger/001-配置swaager.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -265,8 +249,13 @@
         <entry file="file://$PROJECT_DIR$/00-代码仓库/001-结果返回类-我自己写的.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="560">
-                <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+              <first_editor relative-caret-position="743">
+                <caret line="89" column="20" selection-start-line="89" selection-start-column="20" selection-end-line="89" selection-end-column="20" />
+                <folding>
+                  <element signature="imports" expanded="true" />
+                  <element signature="e#168#169#0" expanded="true" />
+                  <element signature="e#240#241#0" expanded="true" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -274,6 +263,13 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -302,7 +298,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/00-Java/集合-List/000-面试题.md" />
         <option value="$PROJECT_DIR$/00-Java/集合-Set/000-面试题.md" />
         <option value="$PROJECT_DIR$/tomcat/tomcat基础/003-server的xml文件解析.md" />
         <option value="$PROJECT_DIR$/tomcat/环境/002-centos部署tomcat和war包.md" />
@@ -352,6 +347,7 @@
         <option value="$PROJECT_DIR$/Swagger/002-Swagger基础.md" />
         <option value="$PROJECT_DIR$/Swagger/001-配置swaager.md" />
         <option value="$PROJECT_DIR$/00-spark/2021-question-spark.md" />
+        <option value="$PROJECT_DIR$/00-代码仓库/001-结果返回类.html" />
         <option value="$PROJECT_DIR$/00-代码仓库/001-结果返回类-我自己写的.md" />
       </list>
     </option>
@@ -415,9 +411,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1625844647335" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1625847150330" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -499,14 +496,7 @@
       <workItem from="1625446399682" duration="21218000" />
       <workItem from="1625620753064" duration="4854000" />
       <workItem from="1625628339803" duration="29220000" />
-      <workItem from="1625792017650" duration="9626000" />
-    </task>
-    <task id="LOCAL-00036" summary="update">
-      <created>1619597779673</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1619597779673</updated>
+      <workItem from="1625792017650" duration="11462000" />
     </task>
     <task id="LOCAL-00037" summary="update">
       <created>1619598198560</created>
@@ -844,11 +834,18 @@
       <option name="project" value="LOCAL" />
       <updated>1625739309413</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="2021-07-09 23:34">
+      <created>1625844854094</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1625844854094</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="391353000" />
+    <option name="totallyTimeSpent" value="393189000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -905,7 +902,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2021-05-12" />
     <MESSAGE value="2021-05-13" />
     <MESSAGE value="2021-05-17" />
     <MESSAGE value="添加代码仓库" />
@@ -930,21 +926,14 @@
     <MESSAGE value="2021-07-07 10:16" />
     <MESSAGE value="2021-07-08 15:18" />
     <MESSAGE value="2021-07-08 18:14" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021-07-08 18:14" />
+    <MESSAGE value="2021-07-09 23:34" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-07-09 23:34" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Nginx/001-基础.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Nginx/000-nginx搜索关键词.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1440,11 +1429,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/00-代码仓库/001-结果返回类.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1988">
+          <caret line="71" column="4" lean-forward="true" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
+          <folding>
+            <element signature="e#199#203#0" expanded="true" />
+            <element signature="e#217#221#0" expanded="true" />
+            <element signature="e#313#319#0" expanded="true" />
+            <element signature="e#319#325#0" expanded="true" />
+            <element signature="e#382#388#0" expanded="true" />
+            <element signature="e#388#394#0" expanded="true" />
+            <element signature="e#440#446#0" expanded="true" />
+            <element signature="e#450#456#0" expanded="true" />
+            <element signature="e#477#483#0" expanded="true" />
+            <element signature="e#486#492#0" expanded="true" />
+            <element signature="e#512#518#0" expanded="true" />
+            <element signature="e#522#528#0" expanded="true" />
+            <element signature="e#690#696#0" expanded="true" />
+            <element signature="e#700#706#0" expanded="true" />
+            <element signature="e#783#789#0" expanded="true" />
+            <element signature="e#792#798#0" expanded="true" />
+            <element signature="e#873#879#0" expanded="true" />
+            <element signature="e#883#889#0" expanded="true" />
+            <element signature="e#1138#1144#0" expanded="true" />
+            <element signature="e#1149#1155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/00-代码仓库/001-结果返回类-我自己写的.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="560">
-            <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <first_editor relative-caret-position="743">
+            <caret line="89" column="20" selection-start-line="89" selection-start-column="20" selection-end-line="89" selection-end-column="20" />
+            <folding>
+              <element signature="imports" expanded="true" />
+              <element signature="e#168#169#0" expanded="true" />
+              <element signature="e#240#241#0" expanded="true" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
