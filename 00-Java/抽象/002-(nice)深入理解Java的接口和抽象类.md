@@ -6,14 +6,14 @@
 ### 一、抽象类
 
 在了解抽象类之前，先来了解一下抽象方法。抽象方法是一种特殊的方法：它只有声明，而没有具体的实现。抽象方法的声明格式为：
-```text
+```java
 abstract void fun();
 ```
 
 抽象方法必须用abstract关键字进行修饰。如果一个类含有抽象方法，则称这个类为抽象类，抽象类必须在类前用abstract关键字修饰。因为抽象类中含有无具体实现的方法，所以不能用抽象类创建对象。
 
 下面要注意一个问题：在《JAVA编程思想》一书中，将抽象类定义为“包含抽象方法的类”，但是后面发现如果一个类不包含抽象方法，只是用abstract修饰的话也是抽象类。也就是说抽象类不一定必须含有抽象方法。个人觉得这个属于钻牛角尖的问题吧，因为如果一个抽象类不包含任何抽象方法，为何还要设计为抽象类？所以暂且记住这个概念吧，不必去深究为什么。
-```text
+```java
 [public] abstract class ClassName {
     abstract void fun();
 }
@@ -33,7 +33,7 @@ abstract void fun();
 接口，英文称作interface，在软件工程中，接口泛指供别人调用的方法或者函数。从这里，我们可以体会到Java语言设计者的初衷，它是对行为的抽象。
 
 在Java中，定一个接口的形式如下：
-```text
+```java
 [public] interface InterfaceName {
 }
 ```
@@ -41,7 +41,7 @@ abstract void fun();
 接口中可以含有变量和方法。但是要注意，接口中的变量会被隐式地指定为public static final变量（并且只能是public static final变量，用private修饰会报编译错误），而方法会被隐式地指定为public abstract方法且只能是public abstract方法（用其他关键字，比如private、protected、static、 final等修饰会报编译错误），并且接口中所有的方法不能有具体的实现，也就是说，接口中的方法必须都是抽象方法。从这里可以隐约看出接口和抽象类的区别，接口是一种极度抽象的类型，它比抽象类更加“抽象”，并且一般情况下不在接口中定义变量。
 
 要让一个类遵循某组特地的接口需要使用implements关键字，具体格式如下：
-```text
+```java
 class ClassName implements Interface1,Interface2,[....]{
 }
 ```
